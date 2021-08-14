@@ -1,4 +1,4 @@
-# How to create mask
+# Introduction to the Mask system
 
 Mask also knows as Adjacency Mask is a description of some place but in terms of accessibility from the target cell. Mostly useful in situations when you want to find borders of rooms or whole house.
 

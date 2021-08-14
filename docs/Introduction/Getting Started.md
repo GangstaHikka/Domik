@@ -4,15 +4,15 @@ Domik is a procedural house generator which you can use to create houses in the 
 
 ## **What can Domik do for you?**
 - You can generate a lots of different houses to your game less than several minutes.
-- [You can add your own 3D models](../How%20to%20replace%20models%20or%20materials.md) instead of built-in.
-- You can create **your own furniture** or something else like a **spawn point**. Just use the furniture system.
+- [You can add your own 3D models](../Introduction/How%20to%20replace%20models%20or%20materials.md) instead of built-in.
+- You can add new stuff like furniture or even something exotic like spawn points or enemy spawner. [Just use the furniture system](Introduction%20to%20the%20Furniture%20system.md).
 - You can delete an  example folder and do everything your own way.
-- No, coding is not necessary, the Domik includes a powerful **visual scripting system - the Pipeline**.
+- No, coding is not necessary, the Domik includes a powerful visual scripting system - [**the Pipeline**](../The%20Pipeline/Introduction%20to%20the%20Pipeline.md).
 - You can change **walls**, **doors**, **ceiling**, **roof**... **everything**!
 - You can generate a house **runtime** if you want to make something like a **roguelike game**.
-- You can switch between different looks of the house by **skins system**.
+- You can switch between different looks of the house by [**skins system**](../Introduction/Introduction%20to%20the%20Skins%20system.md).
 - And yeah, skin system supports **2D and 3D assets** (there is no 2D skin examples at this moment, however).
-- You can work with rooms view individually by an **interior system**.
+- You can work with rooms view individually by an [**interior system**](../Intoduction/Introduction%20to%20the%20Interior%20system.md).
 - Multiple floors are supported.
 - Stairs are supported.
 - Elevators can be added pretty easy, but there is no example at this moment.
@@ -22,7 +22,7 @@ Domik is a procedural house generator which you can use to create houses in the 
 - You can use it with **HDRP**, **URP** and **Built-in** scriptable pipeline. Just update project materials as it says in the Unity documentation.
 - You can **change** things **by hands** after generation process.
 - The Domik has it's own **mesh combine system**, so optimization process is little bit easy. But external house building solutions also possible.
-- You can make beautiful and complex **facades**.
+- You can make beautiful and complex [**facades**](../Introduction/How%20to%20work%20with%20Facades.md).
 - You can make a house without facades if you wan't to make something like the Sims. Or without roof! Or without furniture! Or... You can do what you want, you're big boy (or girl, or something between), just use **the Pipeline**!
 
 ## **Create your first procedural house**
@@ -64,7 +64,7 @@ You can also regenerate some house to change it's look.
 - [[How to change house size]]
 - [[How to change house floors]]
 - [[How to change room walls]]
-- [[How to change facade]]
+- [[How to work with Facades]]
 
-- [[How to add new furniture]]
+- [[Introduction to the Furniture system]]
 - [[What is a Placeable Object]]

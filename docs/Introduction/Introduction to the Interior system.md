@@ -1,4 +1,4 @@
-# How to create new interior
+# Introduction to the Interior system
 To create new floor select some folder in the **Project** window -> Right Mouse Click -> Create -> Domik -> Interior
 ![[create interior.gif]]
 

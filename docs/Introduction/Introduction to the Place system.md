@@ -1,4 +1,4 @@
-# How to create Place
+# Introduction to the Place system
 To create new floor select some folder in the **Project** window -> Right Mouse Click -> Create -> Domik -> Place
 
 Place is a description of some... place :D

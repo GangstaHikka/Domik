@@ -1,7 +1,7 @@
-# How to change Facade?
+# How to work with Facades?
 As you may read before, everything about the appearance, changes through the skin system. So, if we want to change view of the facade we should change house base skins. But in case of house skins things little bit difficultly. Facade of the house is splitted to five segments - thin facade, regular facade, thick facade, columns and plinth, so you can combine them as you want by changing floors tags. Or you can override House Skins in the House Generator component by adding new skins in top of the list. 
 
-## Method 1 - Change Floors Tags
+## **Change facades by floor tags**
 This method provides by the Pipeline. To use it just select some floor and change it's facade tag.
 
 ![[change roof tag.gif]]
@@ -13,7 +13,7 @@ Here cells of floors with Facade tags will be filtered and processed to achive t
 You can create your own Tags and generation steps also. 
 Read more: [[What are floor tags]]
 
-## Method 2 - Change House Skins
+## **Change facades by base skins**
 
 Select the House Generator prefab instance on the scene and look at the House Skins panel.
 ![[Pasted image 20210408121850.png]]
@@ -42,6 +42,6 @@ You can also change meshes of walls or add something new. Let's make this wall e
 
 ![[add window frames.gif]]
 
-## Method 3: Working with Palettes.
+## **Change facades by Pallets**.
 Palettes is a tool which mostly uses to make skins more randomly, but you can use it to work with skins more comfortable as well.
 

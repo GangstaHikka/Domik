@@ -1,4 +1,5 @@
-# How to add new furniture?
+# Introduction to the Furniture system?
+
 From the Domik perspective there is no difference between walls, doors, furniture or something else.
 It's all parts. 
 If you want to add new furniture you should add new part. 
