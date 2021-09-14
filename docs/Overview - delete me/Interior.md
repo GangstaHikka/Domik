@@ -12,7 +12,7 @@ Furniture - a list of [[Placeable Object]] or [[Placeable Objects Container]]. A
 ---
 
 ## Skins
-Skins - skins which will override a Base Skin from the [[Overview/House Generator]]. If you want to change a default look of walls, ceiling, floor, etc. just make new Skin with different materials for them and add here.
+Skins - skins which will override a Base Skin from the [[Overview - delete me/House Generator]]. If you want to change a default look of walls, ceiling, floor, etc. just make new Skin with different materials for them and add here.
 
 ---
 

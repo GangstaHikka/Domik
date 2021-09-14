@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/House Generator.md",
+            "file": "The Pipeline/Add Part.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/House Generator.md",
+            "file": "The Pipeline/Add Part.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction/House Generator.md",
+                "file": "The Pipeline/Add Part.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "e3cc79e047ef6665",
   "lastOpenFiles": [
+    "The Pipeline/Add Part.md",
+    "The Pipeline/Introduction to the Pipeline.md",
+    "Introduction/Deep Dive Into House Building Process.md",
     "Introduction/House Generator.md",
-    "Introduction/Getting Started.md",
     "Overview/House Generator.md",
-    "Overview/Interior.md",
     "Introduction/Introduction to the Interior system.md",
-    "Overview/Placeable Object.md",
-    "Overview/Mask.md",
-    "Introduction/How to change house size.md",
+    "Introduction/How to replace models or materials.md",
     "Introduction/How to change house floors.md",
-    "Introduction/Untitled.md"
+    "The Pipeline/Без названия.md",
+    "Introduction/Getting Started.md"
   ]
 }

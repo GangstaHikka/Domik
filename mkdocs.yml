@@ -150,28 +150,13 @@ nav:
     - How to work with Facades: Introduction/How to work with Facades.md
     - How to change room walls: Introduction/How to change room walls.md
     - How to create new floor: Introduction/How to create new floor.md
-    - How to create new interior: Introduction/How to create new interior.md
     - What are floor tags: Introduction/What are floor tags.md
     - What is a Placeable Object: Introduction/What is a Placeable Object.md
     - What is a Preview system: Introduction/What is a Preview system.md
-  - Overview:
-    - House Generator: House Generator.md
-    - Interior: Interior.md
-    - Mask: Mask.md
-    - Part: Part 1.md
-    - Part Builder: Part Builder.md
-    - Parts Binding System: Parts Binding System.md
-    - Pipeline: Pipeline.md
-    - Nodes: Nodes.md
-    - Place: Place.md
-    - Placeable Object: Placeable Object.md
-    - Placeable Objects Container: Placeable Objects Container.md
-    - Skin: Skin.md
-    - Tag: Tag.md
-    - Start Node: Start Node.md
-    - End Node: End Node.md
+    - Deep dive into house building process: Introduction/Deep Dive Into House Building Process.md
   - The Pipeline:
     - Introduction to the Pipeline: The Pipeline/Introduction to the Pipeline.md
+    - Add Part: The Pipeline/Add Part.md
 
 # Google Analytics
 google_analytics:
