@@ -23,7 +23,7 @@ But it's not actually.
 Let's add a **[0] Internal Doorway** part to add a more context.
 
 ![[Pasted image 20210918184920.png]]
-![[Pasted image 20210918185009.png]]
+![[Pasted image 20210920165818.png]]
 
 Much Better! But now we have a parts overlapping.
 To solve it we have to remove **[0] internal wall** parts from filtered cells. 
@@ -33,6 +33,17 @@ To solve it we have to remove **[0] internal wall** parts from filtered cells.
 Wonderful! 
 Now let's repeat it for other rotations and merge them.
 
-![[Pasted image 20210918190012.png]]
+![[Pasted image 20210920155142.png]]
+![[Pasted image 20210920155417.png]]
 
+!Note Don't use a **Remove Part** node before the merge node!
+It'll cause artifacts because there is no way to merge removing actions properly.
+Instead of that use the **Remove Part Later** and the **Apply Parts Removing** as it shows below.
+![[dont_use_remove_part_before_merge.png]]
+![[dont_use_remove_part_before_merge_result.png]]
 
+Still looks like a mess, but we have all doors!
+Last step - applying changes to the main cells flow.
+
+![[Pasted image 20210920170100.png]]
+![[Pasted image 20210920170151.png]]
