@@ -23,7 +23,6 @@ Nodes
 Mask
 ![[Pasted image 20210918160353.png]]
 Result
-
 ![[Pasted image 20210918155914.png]]
 
 Mask rotated by 90 degrees

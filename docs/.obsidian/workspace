@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Pipeline/Filter Neighbor Cells Node.md",
+            "file": "The Pipeline/Filter With Parts Node.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Pipeline/Filter Neighbor Cells Node.md",
+            "file": "The Pipeline/Filter With Parts Node.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Pipeline/Filter Neighbor Cells Node.md",
+                "file": "The Pipeline/Filter With Parts Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "a81c5465b5de5cf7",
   "lastOpenFiles": [
-    "The Pipeline/Filter Neghbor Cells Node.md",
-    "The Pipeline/Filter By Mask Node.md",
-    "The Pipeline/Add Part.md",
-    "The Pipeline/Filter Random Cells Node.md",
-    "The Pipeline/Filter By Tag Node.md",
+    "The Pipeline/Filter With Parts Node.md",
+    "The Pipeline/Filter With Part Node.md",
+    "The Pipeline/Filter Without Part Node.md",
     "The Pipeline/Untitled.md",
-    "The Pipeline/Filter Intersections Node.md",
-    "Pasted image 20210921150125.png",
-    "The Pipeline/Filter Internal Doors Places.md",
-    "Pasted image 20210918185009.png.md"
+    "The Pipeline/Filter Random Cells Node.md",
+    "The Pipeline/Filter Random Input Node.md",
+    "The Pipeline/Filter By Mask Node.md",
+    "The Pipeline/Filter Floor Node.md",
+    "The Pipeline/Add Part.md",
+    "The Pipeline/Introduction to the Pipeline.md"
   ]
 }
