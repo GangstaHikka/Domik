@@ -157,6 +157,20 @@ nav:
   - The Pipeline:
     - Introduction to the Pipeline: The Pipeline/Introduction to the Pipeline.md
     - Add Part: The Pipeline/Add Part.md
+    - Exclude Node: The Pipeline/Exclude Node.md
+    - Filter By Mask Node: The Pipeline/Filter By Mask Node.md
+    - Filter By Positions Node: The Pipeline/Filter By Positions Node.md
+    - Filter By Tag Node: The Pipeline/Filter By Tag Node.md
+    - Filter Floor Node: The Pipeline/Filter Floor Node.md
+    - Filter Internal Doors Places Node: The Pipeline/Filter Internal Doors Places Node.md
+    - Filter Intersections Node: The Pipeline/Filter Intersections Node.md
+    - Filter Random Cells Node: The Pipeline/Filter Random Cells Node.md
+    - Filter Random Input Node: The Pipeline/Filter Random Input Node.md
+    - Filter With Part Node: The Pipeline/Filter With Part Node.md
+    - Filter With Parts Node: The Pipeline/Filter With Parts Node.md
+    - Filter Without Part Node: The Pipeline/Filter Without Part Node.md
+    - WIP Merge Node: The Pipeline/WIP Merge Node.md
+    - WIP Override Node: The Pipeline/WIP Override Node.md
 
 # Google Analytics
 google_analytics:
