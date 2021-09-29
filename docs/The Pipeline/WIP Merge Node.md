@@ -20,4 +20,23 @@ Good:
 ![[Pasted image 20210920170151.png]]
 
 ### Examples
+Input is a house that has been completed.
+
+![[default cells.png]]
+![[Pasted image 20210922162630.png]]
+
+Let's filter house corners by the **Forward Right House Corners** mask.
+![[Pasted image 20210929123232.png]]
+![[Pasted image 20210929123329.png]]
+![[Pasted image 20210929123402.png]]
+
+That's how result looks if we were select a **90** degree output.
+![[Pasted image 20210929123733.png]]
+![[Pasted image 20210929123722.png]]
+
+Now we can merge all mask rotations together to get all corners of the house.
+
+![[Pasted image 20210929123822.png]]
+![[Pasted image 20210929123839.png]]
+
 
