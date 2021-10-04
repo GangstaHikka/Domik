@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Pipeline/End Node.md",
+            "file": "The Pipeline/WIP Merge Node.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Pipeline/End Node.md",
+            "file": "The Pipeline/WIP Merge Node.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Pipeline/End Node.md",
+                "file": "The Pipeline/WIP Merge Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "a81c5465b5de5cf7",
   "lastOpenFiles": [
-    "The Pipeline/Untitled.md",
-    "The Pipeline/Shuffle Node.md",
     "The Pipeline/WIP Merge Node.md",
-    "The Pipeline/Introduction to the Pipeline.md",
-    "The Pipeline/Exclude Node.md",
-    "The Pipeline/WIP Override Node.md",
-    "The Pipeline/Filter With Parts Node.md",
-    "The Pipeline/Filter With Part Node.md",
-    "The Pipeline/Filter Internal Doors Places Node.md",
-    "The Pipeline/Filter Internal Doors Places.md"
+    "The Pipeline/Start Node.md",
+    "The Pipeline/Filter By Positions Node.md",
+    "The Pipeline/Filter By Mask Node.md",
+    "The Pipeline/End Node.md",
+    "The Pipeline/Calculate Room Interiors.md",
+    "The Pipeline/Apply Interiors Node.md",
+    "The Pipeline/Place Furniture Node.md",
+    "Introduction/Untitled.md",
+    "Overview - delete me/Placeable Objects Container.md"
   ]
 }
