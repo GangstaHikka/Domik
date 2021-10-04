@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Pipeline/WIP Merge Node.md",
+            "file": "The Pipeline/Place Part By Mask For All Rotations Node.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Pipeline/WIP Merge Node.md",
+            "file": "The Pipeline/Place Part By Mask For All Rotations Node.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Pipeline/WIP Merge Node.md",
+                "file": "The Pipeline/Place Part By Mask For All Rotations Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,10 @@
     "width": 214,
     "collapsed": true
   },
-  "active": "a81c5465b5de5cf7",
+  "active": "fe1b3e54f17648d3",
   "lastOpenFiles": [
+    "The Pipeline/Place Part By Mask For All Rotations Node.md",
+    "The Pipeline/Untitled.md",
     "The Pipeline/WIP Merge Node.md",
     "The Pipeline/Start Node.md",
     "The Pipeline/Filter By Positions Node.md",
@@ -110,8 +112,6 @@
     "The Pipeline/End Node.md",
     "The Pipeline/Calculate Room Interiors.md",
     "The Pipeline/Apply Interiors Node.md",
-    "The Pipeline/Place Furniture Node.md",
-    "Introduction/Untitled.md",
-    "Overview - delete me/Placeable Objects Container.md"
+    "The Pipeline/Place Furniture Node.md"
   ]
 }
