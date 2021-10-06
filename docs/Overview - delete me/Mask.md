@@ -1,7 +1,7 @@
 # Mask
 Mask, also known as adjacency mask, is a description about accessibility from central cell to neighbour cells.
 
-You can use it as way as [[Place]], but in more brutal manner. Use it if you wan't to find house or rooms borders, some holes or something like that, and you don't care about parts inside of them. 
+You can use it as way as [[Overview - delete me/Place]], but in more brutal manner. Use it if you wan't to find house or rooms borders, some holes or something like that, and you don't care about parts inside of them. 
 
 ![[Pasted image 20210104202130.png]]
 

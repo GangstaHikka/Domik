@@ -13,7 +13,7 @@ Preview handles a placeable object automatically, so you can see changes instant
 
 - Part - reference to the [[Part]] which you want to place somewhere.
 - Find By - what you want to use to find a better place for this part?
-	- Place - use [[Place]]
+	- Place - use [[Overview - delete me/Place]]
 	- Mask - use Mask
 - Reference to Place or Mask
 
