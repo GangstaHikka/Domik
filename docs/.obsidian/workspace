@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/Deep Dive Into House Building Process.md",
+            "file": "The Pipeline/Apply Parts Removing.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/Deep Dive Into House Building Process.md",
+            "file": "The Pipeline/Apply Parts Removing.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction/Deep Dive Into House Building Process.md",
+                "file": "The Pipeline/Apply Parts Removing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "a81c5465b5de5cf7",
   "lastOpenFiles": [
-    "Introduction/Deep Dive Into House Building Process.md",
-    "Introduction/What is a Preview system.md",
-    "Introduction/What is a Placeable Object.md",
-    "Introduction/What are floor tags.md",
-    "Introduction/Introduction to the Skins system.md",
-    "Introduction/Introduction to the Place system.md",
-    "Introduction/Introduction to the Mask system.md",
-    "Introduction/Introduction to the Interior system.md",
-    "Introduction/Introduction to the Furniture system.md",
-    "Introduction/How to work with Facades.md"
+    "The Pipeline/Untitled.md",
+    "The Pipeline/Remove Part Later Node.md",
+    "The Pipeline/WIP Override Node.md",
+    "The Pipeline/WIP Merge Node.md",
+    "The Pipeline/Filter Internal Doors Places Node.md",
+    "The Pipeline/Remove Part Later.md",
+    "The Pipeline/Remove Part Node.md",
+    "The Pipeline/Shuffle Node.md",
+    "Introduction/Untitled.md",
+    "Introduction/Introduction to the Interior system.md"
   ]
 }
