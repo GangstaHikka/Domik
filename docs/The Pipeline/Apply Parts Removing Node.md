@@ -1,4 +1,4 @@
-# Apply Parts Removing
+# Apply Parts Removing Node
 This node applies parts removing requests. 
 ![[Pasted image 20211007235434.png]]
 - **In** - cells to clean up

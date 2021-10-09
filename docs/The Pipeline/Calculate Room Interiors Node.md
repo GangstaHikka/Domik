@@ -1,4 +1,4 @@
-# Calculate Room Interiors
+# Calculate Room Interiors Node
 This node calculates suitable interiors for rooms.
 ![[Pasted image 20211004112605.png]]
 
