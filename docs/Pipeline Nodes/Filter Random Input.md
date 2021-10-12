@@ -1,7 +1,7 @@
-# Filter Random Input
-This node filters random input cells flow.
+# **Filter Random Input**
+This node filters random input cells flow.  
 
-![[Pasted image 20210922153208.png]]
+![[Pasted image 20210922153208.png]]  
 
 - **In** -  cell inputs to select random flow.
 - **Out** - result
@@ -11,22 +11,22 @@ This node filters random input cells flow.
 
 ### Examples
 
-nput is a house that has been completed.
+Input is a house that has been completed.  
 
 ![[default cells.png]]
 ![[Pasted image 20210918153153.png]]
 
-Now let's filter a house border
+Now let's filter a house border  
 
 ![[Pasted image 20210918155743.png]]
 ![[Pasted image 20210918160353.png]]
 ![[Pasted image 20210918155914.png]]
 
-Now we can select a random **Filter By Mask** node output by the **Filter Random Input** node.
+Now we can select a random **Filter By Mask** node output by the **Filter Random Input** node.  
 
 ![[Pasted image 20210922154018.png]]
 ![[Pasted image 20210922154033.png]]
 
-And this is a result of the filtering with a **Multiple** mode on.
+And this is a result of the filtering with a **Multiple** mode on.  
 ![[Pasted image 20210922154150.png]]
 ![[Pasted image 20210922154214.png]]

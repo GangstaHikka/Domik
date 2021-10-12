@@ -1,0 +1,16 @@
+.md-grid {
+    max-width: 1800px;
+}
+
+img {
+    height: auto;
+    width: auto;
+    background-color: #fff;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+

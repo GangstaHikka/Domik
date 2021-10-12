@@ -57,9 +57,9 @@ theme:
     - navigation.sections
     - navigation.tabs
   palette:
-    scheme: default
-    primary: teal
-    accent: teal
+    scheme: slate
+    primary: black
+    accent: lime
   font:
     text: Roboto
     code: Roboto Mono
@@ -92,7 +92,12 @@ extra:
   #    link: https://linkedin.com/in/squidfunk/
   #  - icon: fontawesome/brands/instagram
   #    link: https://instagram.com/squidfunk
-
+  
+  
+extra_css:
+  - stylesheets/extra.css
+  
+ 
 # Extensions
 markdown_extensions:
   - admonition
@@ -138,39 +143,57 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Introduction:
-    - Getting Started: Introduction/Getting Started.md
-    - House Generator: Introduction/House Generator.md
-    - How to replace models or materials: Introduction/How to replace models or materials.md
-    - Introduction to the Furniture system: Introduction/Introduction to the Furniture system.md
-    - Introduction to the Skins system: Introduction/Introduction to the Skins system.md
-    - Introduction to the Interior system: Introduction/Introduction to the Interior system.md
-    - Introduction to the Mask system: Introduction/Introduction to the Mask system.md
-    - Introduction to the Place system: Introduction/Introduction to the Place system.md
-    - How to work with Facades: Introduction/How to work with Facades.md
-    - How to change room walls: Introduction/How to change room walls.md
-    - How to create new floor: Introduction/How to create new floor.md
-    - What are floor tags: Introduction/What are floor tags.md
-    - What is a Placeable Object: Introduction/What is a Placeable Object.md
-    - What is a Preview system: Introduction/What is a Preview system.md
-    - Deep dive into house building process: Introduction/Deep Dive Into House Building Process.md
-  - The Pipeline:
-    - Introduction to the Pipeline: The Pipeline/Introduction to the Pipeline.md
-    - Add Part: The Pipeline/Add Part.md
-    - Exclude Node: The Pipeline/Exclude Node.md
-    - Filter By Mask Node: The Pipeline/Filter By Mask Node.md
-    - Filter By Positions Node: The Pipeline/Filter By Positions Node.md
-    - Filter By Tag Node: The Pipeline/Filter By Tag Node.md
-    - Filter Floor Node: The Pipeline/Filter Floor Node.md
-    - Filter Internal Doors Places Node: The Pipeline/Filter Internal Doors Places Node.md
-    - Filter Intersections Node: The Pipeline/Filter Intersections Node.md
-    - Filter Random Cells Node: The Pipeline/Filter Random Cells Node.md
-    - Filter Random Input Node: The Pipeline/Filter Random Input Node.md
-    - Filter With Part Node: The Pipeline/Filter With Part Node.md
-    - Filter With Parts Node: The Pipeline/Filter With Parts Node.md
-    - Filter Without Part Node: The Pipeline/Filter Without Part Node.md
-    - WIP Merge Node: The Pipeline/WIP Merge Node.md
-    - WIP Override Node: The Pipeline/WIP Override Node.md
+  - Documentation:
+    - Getting Started: Documentation/Getting Started.md
+    - House Generator: Documentation/House Generator.md
+    - How to replace models or materials: Documentation/How to replace models or materials.md
+    - Furniture: Documentation/Furniture.md
+    - Skins: Documentation/Skins.md
+    - Interiors: Documentation/Interiors.md
+    - Mask: Documentation/Mask.md
+    - Place: Documentation/Place.md
+    - How to work with Facades: Documentation/How to work with Facades.md
+    - How to change room walls: Documentation/How to change room walls.md
+    - How to create new floor: Documentation/How to create new floor.md
+    - Floor Tags: Documentation/Floor Tags.md
+    - Placeable Object: Documentation/Placeable Object.md
+    - Preview system: Documentation/Preview system.md
+    - Deep dive into house building process: Documentation/Deep Dive Into House Building Process.md
+  - Pipeline Nodes:
+    - Add Part: Pipeline Nodes/Add Part.md
+    - Apply Parts Removing: Pipeline Nodes/Apply Parts Removing.md
+    - Calculate Room Interiors: Pipeline Nodes/Calculate Room Interiors.md
+    - End: Pipeline Nodes/End.md
+    - Exclude: Pipeline Nodes/Exclude.md
+    - Extract Positions: Pipeline Nodes/Extract Positions.md
+    - Filter By Mask: Pipeline Nodes/Filter By Mask.md
+    - Filter By Positions: Pipeline Nodes/Filter By Positions.md
+    - Filter By Tag: Pipeline Nodes/Filter By Tag.md
+    - Filter Floor: Pipeline Nodes/Filter Floor.md
+    - Filter Internal Doors Places: Pipeline Nodes/Filter Internal Doors Places.md
+    - Filter Intersections: Pipeline Nodes/Filter Intersections.md
+    - Filter Neighbor Cells: Pipeline Nodes/Filter Neighbor Cells.md
+    - Filter Random Cells: Pipeline Nodes/Filter Random Cells.md
+    - Filter Random Input: Pipeline Nodes/Filter Random Input.md
+    - Filter With Part: Pipeline Nodes/Filter With Part.md
+    - Filter With Parts: Pipeline Nodes/Filter With Parts.md
+    - Filter Without Part: Pipeline Nodes/Filter Without Part.md
+    - Find And Replace: Pipeline Nodes/Find And Replace.md
+    - Merge: Pipeline Nodes/Merge.md
+    - Override: Pipeline Nodes/Override.md
+    - Override Skins Layer: Pipeline Nodes/Override Skins Layer.md
+    - Place Furniture: Pipeline Nodes/Place Furniture.md
+    - Place Part By Mask For All Rotations: Pipeline Nodes/Place Part By Mask For All Rotations
+    - Place Placeable Object: Pipeline Nodes/Place Placeable Object.md
+    - Place Stairs: Pipeline Nodes/Place Stairs.md
+    - Remove Part: Pipeline Nodes/Remove Part.md
+    - Remove Part Later: Pipeline Nodes/Remove Part Later.md
+    - Return Interiors: Pipeline Nodes/Return Interiors.md
+    - Remove Skins Layer: Pipeline Nodes/Remove Skins Layer.md
+    - Shift: Pipeline Nodes/Shift.md
+    - Shuffle: Pipeline Nodes/Shuffle.md
+    - Split Into Rooms: Pipeline Nodes/Split Into Rooms.md
+    - Start: Pipeline Nodes/Start.md
 
 # Google Analytics
 google_analytics:
