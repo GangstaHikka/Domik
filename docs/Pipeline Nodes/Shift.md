@@ -6,8 +6,11 @@ This node shifts input cells
 **X** - X axis offset
 **Y** - Y axis offset
 **Floor** - floor offset
+<br />
 
-### Examples
+--------
+
+# Examples
 In this example we'll shift a right side of the house.  
 ![[default cells.png]]
 ![[Pasted image 20211009220556.png]]

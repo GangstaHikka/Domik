@@ -6,8 +6,11 @@ This node allows you to filter cells which contains some part.
 - **Success** - cells with a target Part
 - **Failed** - cells without a target Part
 - **Part Field** - part what will be used as a filter
+<br />
 
-### Examples  
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

@@ -6,7 +6,9 @@ This node applies parts removing requests.
 - **In** - cells to clean up
 - **Out** - result
 - **Remove** - parts removing requests which you want to apply
+<br />
 
-### Examples
+--------
 
+# Examples
 A wonderful example of using is showed in the [[Remove Part Later]] article.

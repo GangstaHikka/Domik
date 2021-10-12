@@ -4,6 +4,9 @@ This node collects an information about cells which you want to clear from some 
 **In** - cells to clear
 **Out** - result
 **Part** field - part that you want to remove from cells
+<br />
+
+--------
 
 # Examples
 For this example we'll use a simple blanket of the house.  

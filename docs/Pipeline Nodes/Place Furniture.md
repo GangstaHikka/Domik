@@ -9,10 +9,11 @@ Read this to find out how to:
 - **Add look for furniture** - [[Furniture]]
 - **Create new furniture** - [[Documentation/Placeable Object]]
 - **Add furniture to the interior** - [[Interiors]]
+<br />
 
+--------
 
-
-### Example
+# Examples
 In this example we will use precalculated cells with empty rooms  
 
 ![[Pasted image 20211004123402.png]]

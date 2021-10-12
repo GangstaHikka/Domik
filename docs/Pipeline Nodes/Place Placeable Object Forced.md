@@ -7,8 +7,11 @@ This node is an alternative to **Add Part Node**, but, unlike it, it applies cha
 - **Out** - placing result
 - **A Placeable Object field** - a placeable object that you want to place
 - **Turn** - force turning
+<br />
 
-### Examples
+--------
+
+# Examples
 For this example we'll use a very simple house blank.  
 ![[Pasted image 20211006131933.png]]  
 ![[Pasted image 20211006130430.png]]  

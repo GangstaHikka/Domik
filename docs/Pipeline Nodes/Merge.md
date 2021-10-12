@@ -18,8 +18,11 @@ Good:
 
 ![[well_using_merge_with_removing.png]]
 ![[Pasted image 20210920170151.png]]
+<br />
 
-### Examples
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

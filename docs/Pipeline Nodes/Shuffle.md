@@ -5,8 +5,11 @@ Pretty useful if you want to add more random.
 
 - **In** - cells to shuffle
 - **Out** - result
+<br />
 
-### Examples
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

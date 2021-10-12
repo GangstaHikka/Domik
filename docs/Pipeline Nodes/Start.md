@@ -4,8 +4,11 @@ Data from the House Generator component uses to create a bunch of start cells, s
 ![[Pasted image 20210930150414.png]]
 
 - **Cells** - cells constructed from a data from the House Generator component.
+<br />
 
-### Example
+--------
+
+# Examples
 In this example we created a base cells with a size data from the House Generator component and added a **Venus** part to them.  
 ![[Pasted image 20210930151040.png]]
 ![[Pasted image 20210930151456.png]]

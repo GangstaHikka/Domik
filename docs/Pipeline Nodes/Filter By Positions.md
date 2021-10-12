@@ -5,8 +5,11 @@ This node filters cells by positions.
 - **In** - cells to filter
 - **Out** - filtered cells
 - **Positions** - Positions of cells which should be filtered
+<br />
 
-### Example
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

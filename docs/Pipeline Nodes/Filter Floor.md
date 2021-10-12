@@ -6,8 +6,11 @@ Use this node to filter concrete floor.
 - **Out** - filtered cells
 - **Floor** - input number (optional).
 - **Number field** - Number of the floor to filter
+<br />
 
-### Example
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

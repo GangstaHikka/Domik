@@ -9,8 +9,11 @@ Use this node to filter and process a specific floor.
 - **Success** - filtered cells
 - **Failed** - unfiltered cells
 - **Floor Tag Field** - [[Tag]] which will be used as a filter
+<br />
 
-### Example
+--------
+
+# Examples
 Input is a house that has been completed.
 
 ![[default cells.png]]

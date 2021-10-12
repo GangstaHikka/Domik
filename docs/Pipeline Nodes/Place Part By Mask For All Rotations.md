@@ -6,6 +6,9 @@ And yeah, it'll place this part for every found suitable place.
  - **Out** - placing result
  - **Part** field - **Part** that you want to place
  - **Mask** - **Mask** that represents a place there you want to place a **Part**.
+<br />
+
+--------
 
 # Examples
 For this example we will generate a house basic cells, split it by rooms, add floor parts and calculate interiors.  

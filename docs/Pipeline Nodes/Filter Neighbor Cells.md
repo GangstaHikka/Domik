@@ -9,8 +9,11 @@ This node filters target neighbor cells.
 - **Backward** - backward neighbor cells
 - **Right** - right neighbor cells
 - **Left** - left neighbor cells
+<br />
 
-### Examples
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

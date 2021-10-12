@@ -7,8 +7,11 @@ Most often used in situations where you have filtered cells to a separate flow, 
 - **A** - cells flow which you want to override
 - **B** - cells that will override 
 - **Out** - overriding result
+<br />
 
-### Examples
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

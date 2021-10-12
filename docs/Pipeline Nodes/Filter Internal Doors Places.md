@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # **Filter Internal Doors Places**
 This node filters best places for doors between rooms.  
 ![[Pasted image 20210918181546.png]]  
@@ -9,8 +14,11 @@ This node filters best places for doors between rooms.
 - **270** - cells for door part rotated by 270 degrees
 
 You have to add parts for all outputs and then merge them together in most situations.
+<br />
 
-### Example
+--------
+
+# Examples
 Input is a set of barebone rooms without extarnal walls, windows, furniture etc.  
 ![[Pasted image 20210918182115.png]]
 ![[Pasted image 20210918184412.png]]

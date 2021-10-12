@@ -8,8 +8,11 @@ This node provides a placing of stairs.
 - **Failed** - floor cells that have not been connected 
 - **Stairs** - a placeable object of stairs
 - **Min Stairwell Length** - a minimal length of the stairwell, low number makes this stairs less realistic but more universal.
+<br />
 
-### Examples
+--------
+
+# Examples
 For this example we'll use a house without interiors, furniture and facades, because the **Place Stairs** Node designed to be used before calculating and applying interiors.  
 ![[Pasted image 20211007123525.png]]
 ![[Pasted image 20211007123324.png]]

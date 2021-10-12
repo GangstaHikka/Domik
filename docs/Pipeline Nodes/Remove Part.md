@@ -4,8 +4,11 @@ This node removes a part from cells.
 **In** - cells in that you want to remove a part
 **Out** - removing result
 **Part** field - part that you want to remove from cells
+<br />
 
-### Examples
+--------
+
+# Examples
 For this example we'll use a simple blank of the house.  
 ![[Pasted image 20211007172734.png]]
 ![[Pasted image 20211007172832.png]]  

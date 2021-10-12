@@ -4,8 +4,11 @@ This node filters intersected cells between A and B inputs.
 - **A** - first pool of cells to check intersection
 - **B** - second pool of cells to check intersection 
 - **Out** - result
+<br />
 
-### Examples
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

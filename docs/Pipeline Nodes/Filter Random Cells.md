@@ -6,8 +6,11 @@ Use this node to filter random cells
 - **Success** - filtered cells
 - **Failed** - сells that have not been filtered 
 - **Count** - how many cells you want to filter
+<br />
 
-### Example
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

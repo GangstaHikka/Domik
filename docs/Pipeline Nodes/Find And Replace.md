@@ -5,8 +5,11 @@ This node allows you to replace some part with other part. It'll try to process 
 **Out** - result of replacing
 **Target** - part to replace
 **New Part** - part to use as replace 
+<br />
 
-### Examples
+--------
+
+# Examples
 For this example we'll change a facade of complete house.   
 ![[default cells.png]]
 ![[Pasted image 20211009215333.png]]

@@ -8,9 +8,11 @@ Use this node to filter cells by some mask.
 - **180** - Result cells filtered by mask rotated by 180 degrees 
 - **270** - Result cells filtered by mask rotated by 270 degrees 
 - **Mask field** - A mask to use as a filter.
+<br />
 
+--------
 
-### Example
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

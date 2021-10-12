@@ -5,8 +5,11 @@ This node excludes cells B from cells A.
 - **A** - cells which you want to process
 - **B** - cells which you want to exclude from **A**
 - **Out** - result
+<br />
 
-### Examples
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]  

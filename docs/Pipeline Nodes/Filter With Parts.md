@@ -8,8 +8,11 @@ This node filters cells with several parts.
 - **Filter With** 
 	- **Any** - filter cells, which contain any target part.
 	- **All** - filter cells, which contains all target parts.
+<br />
 
-### Examples
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

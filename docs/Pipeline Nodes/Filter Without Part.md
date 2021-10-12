@@ -4,8 +4,11 @@ This node allows you to filter cells without some part.
 ![[Pasted image 20210922162138.png]]
 - **In** - cells to filter
 - **Out** - cells without a target Part
+<br />
 
-### Examples
+--------
+
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]

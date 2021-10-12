@@ -8,9 +8,11 @@ This node filters random input cells flow.
 - Mode
 	- **Single** - return only one cells flow
 	- **Multiple** - merge and return several cell flows
+<br />
 
-### Examples
+--------
 
+# Examples
 Input is a house that has been completed.  
 
 ![[default cells.png]]
