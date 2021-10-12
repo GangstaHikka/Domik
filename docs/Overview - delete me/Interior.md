@@ -7,7 +7,7 @@ Place Interiors Node will try to find suitable interiors for all rooms in the ho
 ---
 
 ## Furniture
-Furniture - a list of [[Placeable Object]] or [[Placeable Objects Container]]. Add here all that you want to see in this room.
+Furniture - a list of [[Overview - delete me/Placeable Object]] or [[Placeable Objects Container]]. Add here all that you want to see in this room.
 
 ---
 
