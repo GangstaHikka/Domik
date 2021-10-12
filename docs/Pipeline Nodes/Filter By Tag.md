@@ -1,6 +1,8 @@
 # **Filter By Tag**
 This node filters nodes by the [[Tag]].  
+
 ![[Pasted image 20210918175526.png]]  
+
 Use this node to filter and process a specific floor.  
 
 - **In** - cells to filter

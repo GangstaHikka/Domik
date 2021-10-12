@@ -1,15 +1,21 @@
 # **Override Skins Layer**
 This node allows you to combine two Skins Layer flows together.  
 
-![[Pasted image 20211009185628.png]]  
-**A** - a skins layer flow that will be overriden.
-**B** - a skins layer flow that will override an ""A"" flow.
-**Result** - a result of overriding A flow by the B flow.
+![[Pasted image 20211009185628.png]]{ align=left }
+
+<br />
+**A** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - a skins layer flow that will be overriden.  
+**B** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - a skins layer flow that will override an **A** flow.   
+**Result**  &nbsp;- a result of overriding **A** flow by the **B** flow.  
+<br />
+
+--------
 
 # Examples
 In this example we'll repaint facades of completed house.  
-![[Pasted image 20211009190010.png]]
-![[Pasted image 20211009190026.png]]
-Now we'll create two skins layer flows and combine them together by overriding.  
-![[Pasted image 20211009190132.png]]
-![[Pasted image 20211009190145.png]]
+![[Pasted image 20211009190010.png]]  
+![[Pasted image 20211009190026.png]]  
+<br />
+Now we'll create two skins layer flows and combine them together by overriding  
+![[Pasted image 20211009190132.png]]  
+![[Pasted image 20211009190145.png]]  
