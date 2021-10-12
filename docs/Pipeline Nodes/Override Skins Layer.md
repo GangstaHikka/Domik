@@ -4,9 +4,9 @@ This node allows you to combine two Skins Layer flows together.
 ![[Pasted image 20211009185628.png]]{ align=left }
 
 <br />
-**A** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - a skins layer flow that will be overriden.  
-**B** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - a skins layer flow that will override an **A** flow.   
-**Result**  &nbsp;- a result of overriding **A** flow by the **B** flow.  
+**A** - a skins layer flow that will be overriden.  
+**B** - a skins layer flow that will override an **A** flow.   
+**Result** - a result of overriding **A** flow by the **B** flow.  
 <br />
 
 --------
