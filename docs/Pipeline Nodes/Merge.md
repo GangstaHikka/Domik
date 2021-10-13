@@ -1,23 +1,30 @@
 # **Merge**
+
+![[Pasted image 20210923145608.png]]{ align=left }  
+
 This node merges input cells together.  
-![[Pasted image 20210923145608.png]]
+
+<br /><br />
 
 - **In** - cells to merge. Multiple input is accessible (obviously)
 - **Out** - merge result
 
-!Note Don't use a **Remove Part** node before the **merge** node!  
-It'll cause artifacts because there is no way to merge removing actions properly.  
-Instead of that use the **Remove Part Later** and the **Apply Parts Removing** as it shows below.
+??? warning "Don't use a **Remove Part** node before the **merge** node!"
 
-Wrong:  
+	Don't use a **Remove Part** node before the **merge** node!  
+	It'll cause artifacts because there is no way to merge removing actions properly.  
+	Instead of that use the **Remove Part Later** and the **Apply Parts Removing** as it shows below.
 
-![[dont_use_remove_part_before_merge.png]]
-![[dont_use_remove_part_before_merge_result.png]]
+	**Wrong:** 
 
-Good:  
+	![[dont_use_remove_part_before_merge.png]]
+	![[dont_use_remove_part_before_merge_result.png]]
 
-![[well_using_merge_with_removing.png]]
-![[Pasted image 20210920170151.png]]
+	**Good:**  
+
+	![[well_using_merge_with_removing.png]]
+	![[Pasted image 20210920170151.png]]
+
 <br />
 
 --------

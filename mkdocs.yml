@@ -84,10 +84,6 @@ plugins:
 
 # Customization
 
-hide:
-  - navigation
-  - toc
-
 extra:
   social:
   #  - icon: fontawesome/brands/github
@@ -212,7 +208,7 @@ nav:
         - Remove Part: Pipeline Nodes/Remove Part.md
         - Remove Part Later: Pipeline Nodes/Remove Part Later.md
     - Skins:
-        - Create Skins Layer: PipelineNodes/Create Skins Layer.md
+        - Create Skins Layer: Pipeline Nodes/Create Skins Layer.md
         - Override Skins Layer: Pipeline Nodes/Override Skins Layer.md
         - Return Skins Layer: Pipeline Nodes/Return Skins Layer.md
     

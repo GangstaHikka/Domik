@@ -1,6 +1,11 @@
 # **Place Stairs**
+
+![[Pasted image 20211007134646.png]]{ align=left }
+
 This node provides a placing of stairs.  
-![[Pasted image 20211007134646.png]]  
+
+<br /><br /><br /><br /><br />
+
 - **All** - the main cells flow
 - **Target** - cells where you want to place stairs
 - **Forbidden** - cells that are forbidden to change
@@ -8,6 +13,7 @@ This node provides a placing of stairs.
 - **Failed** - floor cells that have not been connected 
 - **Stairs** - a placeable object of stairs
 - **Min Stairwell Length** - a minimal length of the stairwell, low number makes this stairs less realistic but more universal.
+
 <br />
 
 --------
@@ -26,8 +32,13 @@ Here we'll use the same cells flow for the **All** input and for the **Target** 
 Here windows and doors intersect with the stairs and this is not fine. To solve it we have to add cells with them to the **Forbidden** input.  
 
 ![[Pasted image 20211007134506.png]]
-![[Pasted image 20211007132739.png]]
-![[Pasted image 20211007132802.png]]
+
+=== "Top"
+	![[Pasted image 20211007132739.png]]
+	
+=== "First Person"
+	![[Pasted image 20211007132802.png]]
+	
 Now this is fine.   
 But sometimes the house structure too complicated to be able to use only one stairs, so you have to add more stairs to connect other floors.  
 In the next example we'll generate a house with another SEED.  

@@ -1,11 +1,15 @@
 # **Apply Parts Removing**
 
-![[Pasted image 20211007235434.png]]  
+![[Pasted image 20211007235434.png]]{ align=left }
+
 This node applies parts removing requests.  
+
+<br /><br /><br />
 
 - **In** - cells to clean up
 - **Out** - result
 - **Remove** - parts removing requests which you want to apply
+
 <br />
 
 --------

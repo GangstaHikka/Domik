@@ -1,11 +1,16 @@
 # **Filter Floor**
+
+
+![[Pasted image 20210918154450.png]]{ align=left }    
 Use this node to filter concrete floor.  
 
-![[Pasted image 20210918154450.png]]  
+<br /><br /><br />
+
 - **In** - cells to filter
 - **Out** - filtered cells
 - **Floor** - input number (optional).
 - **Number field** - Number of the floor to filter
+
 <br />
 
 --------

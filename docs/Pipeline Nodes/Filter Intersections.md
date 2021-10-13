@@ -1,9 +1,15 @@
 # **Filter Intersections**
+
+![[Pasted image 20210921144425.png]]{ align=left }   
+
 This node filters intersected cells between A and B inputs.
-![[Pasted image 20210921144425.png]]  
+
+<br /><br /><br /><br />
+
 - **A** - first pool of cells to check intersection
 - **B** - second pool of cells to check intersection 
 - **Out** - result
+
 <br />
 
 --------

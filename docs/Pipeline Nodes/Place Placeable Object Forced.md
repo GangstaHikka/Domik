@@ -1,12 +1,18 @@
 # **Place Placeable Object Forced**
+
+
+![[Pasted image 20211005165423.png]]{ align=left }    
+
 This node is an alternative to **Add Part Node**, but, unlike it, it applies changes to the surrounding space.  
 
-![[Pasted image 20211005165423.png]]  
+<br /><br /><br />
+
 - **All** - the main cells flow
 - **Target** - cells in that you want to place a placeable object
 - **Out** - placing result
 - **A Placeable Object field** - a placeable object that you want to place
 - **Turn** - force turning
+
 <br />
 
 --------

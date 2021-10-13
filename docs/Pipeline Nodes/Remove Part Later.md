@@ -1,9 +1,15 @@
 # **Remove Part Later**
+
+![[Pasted image 20211007225920.png]]{ align=left }    
+
 This node collects an information about cells which you want to clear from some part in the future.  
-![[Pasted image 20211007225920.png]]  
-**In** - cells to clear
-**Out** - result
-**Part** field - part that you want to remove from cells
+
+<br /><br />
+
+- **In** - cells to clear
+- **Out** - result
+- **Part** field - part that you want to remove from cells
+
 <br />
 
 --------

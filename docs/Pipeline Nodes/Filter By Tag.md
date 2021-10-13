@@ -1,9 +1,12 @@
 # **Filter By Tag**
+
+
+![[Pasted image 20210918175526.png]]{ align=left }   
+
 This node filters nodes by the [[Tag]].  
-
-![[Pasted image 20210918175526.png]]  
-
 Use this node to filter and process a specific floor.  
+
+<br /><br />
 
 - **In** - cells to filter
 - **Success** - filtered cells
@@ -14,15 +17,17 @@ Use this node to filter and process a specific floor.
 --------
 
 # Examples
-Input is a house that has been completed.
+Input is a house that has been completed.  
 
-![[default cells.png]]
-![[Pasted image 20210918153153.png]]
+![[default cells.png]]  
+![[Pasted image 20210918153153.png]]  
 
-Now lets filter a floor with a **Roof** floor tag.
-![[Pasted image 20210918180235.png]]
-![[Pasted image 20210918180245.png]]
+Now lets filter a floor with a **Roof** floor tag.  
 
-Failed output
-![[Pasted image 20210918180347.png]]
-![[Pasted image 20210918180406.png]]
+=== "Success output"
+	![[Pasted image 20210918180235.png]]  
+	![[Pasted image 20210918180245.png]]  
+
+=== "Failed output"
+	![[Pasted image 20210918180347.png]]  
+	![[Pasted image 20210918180406.png]]  

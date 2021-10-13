@@ -1,9 +1,15 @@
 # **Remove Part**
+
+![[Pasted image 20211007172402.png]]{ align=left }    
+
 This node removes a part from cells.   
-![[Pasted image 20211007172402.png]]  
-**In** - cells in that you want to remove a part
-**Out** - removing result
-**Part** field - part that you want to remove from cells
+
+<br /><br /><br />
+
+- **In** - cells in that you want to remove a part
+- **Out** - removing result
+- **Part** field - part that you want to remove from cells
+
 <br />
 
 --------

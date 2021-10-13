@@ -1,15 +1,20 @@
 # **Calculate Room Interiors**
 
-<center>Centered text</center>
-
-
 ![[Pasted image 20211004112605.png]]{ align=left }
+
 This node calculates suitable interiors for rooms.  
 You have to return calculated interiors to the **END** node as it shows below.   
+
+<br />
+
 - **In** - cells to analyze
 - **Room Interiors** - suitable interiors for rooms
 
+<br />
 
+--------
+
+# Explain
 
 There is no effect of room's calculating if you don't return it to the END node.  
 

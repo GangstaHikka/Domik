@@ -1,11 +1,17 @@
 # **Place Part By Mask For All Rotations**
+
+![[Pasted image 20211004220511.png]]{ align=left }    
+
 This node allows you to find places by the mask and place a Part there. It'll process placing for all four rotations, so it's pretty useful if you want to place something somewhere and you don't care about specific rotations.     
 And yeah, it'll place this part for every found suitable place.  
-![[Pasted image 20211004220511.png]]  
+
+
  - **In** - cells there you want to place a part
  - **Out** - placing result
  - **Part** field - **Part** that you want to place
  - **Mask** - **Mask** that represents a place there you want to place a **Part**.
+
+
 <br />
 
 --------

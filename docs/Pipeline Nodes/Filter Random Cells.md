@@ -1,11 +1,16 @@
 # **Filter Random Cells**
+
+![[Pasted image 20210918152655.png]]{ align=left }    
+
 Use this node to filter random cells  
-![[Pasted image 20210918152655.png]]  
+
+<br /><br /><br /><br />
 
 - **In** - cells to filter
 - **Success** - filtered cells
 - **Failed** - сells that have not been filtered 
 - **Count** - how many cells you want to filter
+
 <br />
 
 --------

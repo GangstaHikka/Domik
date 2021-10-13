@@ -1,16 +1,22 @@
 # **Place Placeable Object**
+
+![[Pasted image 20211005165304.png]]{ align=left }    
+
 This node places a **PlaceableObject** or **PlaceableObjectsContainer** to input cells.  
-![[Pasted image 20211005165304.png]]  
+
+<br /><br />
 
 - **In** - cells to place.
 - **Out** - placing result.
-- **Placing Mode**: 
+- **Placing Mode:** 
 	- **Once Per House** - try to place this **Placeable Object** only once somewhere into the house.
 	- **Once Per Floor** - try to place this **Placeable Object** once per floor.
 	- **Once Per Room** - try to place this **Placeable Object** in every room.
 	- **In Every Cell** - try to place this **Placeable Object** in every input cell.
 	
 - **A Placeable field** - **PlaceableObject** of **PlaceableObjectsContainer** what you want to place.
+
+
 <br />
 
 --------
@@ -22,27 +28,30 @@ For this examples we'll use generated rooms without anything as it shows below.
 
 Now let's add a **Chilling Small Section** placeable object with different placing rules.  
 
-#### Once Per Cell
-With this parameter node will try to place a **PlaceableObject** on every cell.   
+=== "Once Per Cell"
+	With this parameter node will try to place a **PlaceableObject** on every cell.   
+	![[Pasted image 20211005151444.png]]
+	![[Pasted image 20211005150607.png]]
 
-![[Pasted image 20211005151444.png]]
-![[Pasted image 20211005150607.png]]
+=== "Once Per Room"
+	With this parameter node will try to place a **PlaceableObject** only once per room.   
+	![[Pasted image 20211005151246.png]]
+	![[Pasted image 20211005150806.png]]
 
-#### Once Per Room
-With this parameter node will try to place a **PlaceableObject** only once per room.   
-![[Pasted image 20211005151246.png]]
-![[Pasted image 20211005150806.png]]
+=== "Once Per Floor"
+	With this parameter node will try to place a **PlaceableObject** only once per floor.   
+	![[Pasted image 20211005151324.png]]
+	The result of selecting this parameter pretty hard to show, because there is only one chilling section per floor now.  
+	![[Pasted image 20211005154308.png]]
+	![[Pasted image 20211005154452.png]]
 
-#### Once Per Floor
-The result of selecting this parameter pretty hard to show, because there is only one chilling section per floor now.  
-![[Pasted image 20211005151324.png]]
-![[Pasted image 20211005154308.png]]
-![[Pasted image 20211005154452.png]]
+=== "Once Per House"
+	With this parameter node will try to place a **PlaceableObject** only once per house.  
+	![[Pasted image 20211005151405.png]]
+	Now it's even harder because there is only one place where this Placeable Object can be.  
+	![[Pasted image 20211005155054.png]]
 
-#### Once Per House
-Now it's even harder because there is only one place where this Placeable Object can be.  
-![[Pasted image 20211005151405.png]]
-![[Pasted image 20211005155054.png]]
+------
 
 There is no necessary to use a main cells flow as an input, you can filter some bunch of cells and place some PlaceableObject there, just don't forget to override a main cells flow after that.  
 

@@ -1,11 +1,17 @@
 # **Filter With Part**
-This node allows you to filter cells which contains some part.  
+ 
 
-![[Pasted image 20210922154644.png]]
+![[Pasted image 20210922154644.png]]{ align=left }  
+
+This node allows you to filter cells which contains some part. 
+
+<br /><br /><br />
+
 - **In** - cells to filter
 - **Success** - cells with a target Part
 - **Failed** - cells without a target Part
 - **Part Field** - part what will be used as a filter
+
 <br />
 
 --------

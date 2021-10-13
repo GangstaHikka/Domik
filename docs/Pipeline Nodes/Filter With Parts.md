@@ -1,13 +1,18 @@
 # **Filter With Parts**
+
+![[Pasted image 20210922163351.png]]{ align=left }    
+
 This node filters cells with several parts.   
-![[Pasted image 20210922163351.png]]  
+
+<br /><br /><br /><br /><br /><br /><br />
 
 - **In** - cells to filter
 - **Success** - filtered cells
 - **Part Fields** - targets to filter
-- **Filter With** 
+- **Filter With:** 
 	- **Any** - filter cells, which contain any target part.
 	- **All** - filter cells, which contains all target parts.
+
 <br />
 
 --------

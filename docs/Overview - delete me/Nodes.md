@@ -334,7 +334,7 @@ To create a new node Right Click in the graph -> Create Node -> *Select Category
 	
 	_Input_:
 	
-	* **All** - all accessible cells, needs to run actions after placing (read [[Overview - delete me/Placeable Object]]).
+	* **All** - all accessible cells, needs to run actions after placing (read [[Placeable Object OLD]]).
 	* **Target** - here you want to place this PlaceableObject.
 	
 	_Parameters_:

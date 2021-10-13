@@ -1,6 +1,11 @@
 # **Filter Neighbor** 
+
+![[Pasted image 20210921175542.png]]{ align=left }    
+
 This node filters target neighbor cells.  
-![[Pasted image 20210921175542.png]]  
+
+<br /><br /><br /><br /><br /><br /><br /><br />
+
 - **All** - the main cells flow
 - **Target** - cells for which you want to find neighbors
 - **Top** - top neighbor cells
@@ -9,6 +14,7 @@ This node filters target neighbor cells.
 - **Backward** - backward neighbor cells
 - **Right** - right neighbor cells
 - **Left** - left neighbor cells
+
 <br />
 
 --------
@@ -30,7 +36,7 @@ Now we can slice this house like a pie by using the **Filter Neighbor Cells** no
 
 Or we can make something mad...  
 
-![[(По)Жилое Перемещение.gif]]
+![[house_side_moving.gif]]
 
 Another example: let's select some random cell:  
 ![[Pasted image 20210921205522.png]]
