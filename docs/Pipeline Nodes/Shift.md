@@ -1,6 +1,6 @@
 # **Shift**
 
-![[Pasted image 20211009215700.png]]{ align=left }   
+![[Pasted image 20211009215700.png]]
 
 This node shifts input cells   
 

@@ -1,10 +1,8 @@
 # **Place Stairs**
 
-![[Pasted image 20211007134646.png]]{ align=left }
+![[Pasted image 20211007134646.png]]
 
 This node provides a placing of stairs.  
-
-<br /><br /><br /><br /><br />
 
 - **All** - the main cells flow
 - **Target** - cells where you want to place stairs

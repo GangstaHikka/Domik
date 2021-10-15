@@ -1,7 +1,7 @@
 # **Filter By Tag**
 
 
-![[Pasted image 20210918175526.png]]{ align=left }   
+![[Pasted image 20210918175526.png]]
 
 This node filters nodes by the [[Tag]].  
 Use this node to filter and process a specific floor.  

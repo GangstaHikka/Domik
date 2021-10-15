@@ -1,6 +1,6 @@
 # **Return Skins Layer**
 
-![[Pasted image 20211009190607.png]]{ align=left }    
+![[Pasted image 20211009190607.png]]    
 
 This node provides an alternative way to apply a skins layer. Use it if you want to make your pipeline structure  cleaner.  
 

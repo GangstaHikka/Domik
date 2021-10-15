@@ -1,7 +1,7 @@
 # **Filter With Part**
  
 
-![[Pasted image 20210922154644.png]]{ align=left }  
+![[Pasted image 20210922154644.png]]
 
 This node allows you to filter cells which contains some part. 
 

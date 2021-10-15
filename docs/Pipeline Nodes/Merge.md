@@ -1,6 +1,6 @@
 # **Merge**
 
-![[Pasted image 20210923145608.png]]{ align=left }  
+![[Pasted image 20210923145608.png]]
 
 This node merges input cells together.  
 

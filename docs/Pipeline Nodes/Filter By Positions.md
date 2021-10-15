@@ -1,6 +1,6 @@
 # **Filter By Positions**
 
-![[Pasted image 20210918173720.png]]{ align=left }  
+![[Pasted image 20210918173720.png]]
 
 This node filters cells by positions.  
 

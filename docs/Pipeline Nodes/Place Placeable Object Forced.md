@@ -1,7 +1,7 @@
 # **Place Placeable Object Forced**
 
 
-![[Pasted image 20211005165423.png]]{ align=left }    
+![[Pasted image 20211005165423.png]]
 
 This node is an alternative to **Add Part Node**, but, unlike it, it applies changes to the surrounding space.  
 

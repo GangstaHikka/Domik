@@ -1,6 +1,6 @@
 # **Place Furniture**
 
-![[Pasted image 20211004122733.png]]{ align=left }    
+![[Pasted image 20211004122733.png]]
 
 This node places interior furniture to input cells.  
 

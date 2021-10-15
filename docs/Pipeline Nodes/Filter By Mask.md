@@ -1,6 +1,6 @@
 # **Filter By Mask**
 
-![[Pasted image 20210918155141.png]]{ align=left }  
+![[Pasted image 20210918155141.png]]
 
 Use this node to filter cells by some mask.  
 

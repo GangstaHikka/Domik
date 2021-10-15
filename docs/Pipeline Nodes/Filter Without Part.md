@@ -1,7 +1,7 @@
 # **Filter Without Part**
 
 
-![[Pasted image 20210922162138.png]]{ align=left }  
+![[Pasted image 20210922162138.png]]
 
 This node allows you to filter cells without some part.  
 

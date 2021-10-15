@@ -1,6 +1,6 @@
 # **Place Placeable Object**
 
-![[Pasted image 20211005165304.png]]{ align=left }    
+![[Pasted image 20211005165304.png]] 
 
 This node places a **PlaceableObject** or **PlaceableObjectsContainer** to input cells.  
 

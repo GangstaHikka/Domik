@@ -1,6 +1,6 @@
 # **Create Skins Layer**
 
-![[Pasted image 20211008164616.png]]{ align=left }    
+![[Pasted image 20211008164616.png]] 
 
 This node creates an override skins layer, use it if you want to add some special look for several cells.  
 

@@ -1,6 +1,6 @@
 # **Filter Intersections**
 
-![[Pasted image 20210921144425.png]]{ align=left }   
+![[Pasted image 20210921144425.png]]
 
 This node filters intersected cells between A and B inputs.
 

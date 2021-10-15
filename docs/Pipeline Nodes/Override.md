@@ -1,16 +1,16 @@
 # **Override**
 
-![[Pasted image 20210923162608.png]]{ align=left }    
+![[Pasted image 20211015145358.png]]{ align=left }
 
-This node overrides cells **A** with cells **B**.  
-Overriding process will replace **A** cells with **B** cells with the same position.    
-Most often used in situations where you have filtered cells to a separate flow, changed them, and now want to apply the changes to the main flow.  
-
-<br />
-
-- **A** - cells flow which you want to override
-- **B** - cells that will override 
-- **Out** - overriding result
+=== "Description"
+	This node overrides cells **A** with cells **B**.  
+	Overriding process will replace **A** cells with **B** cells with the same position.    
+	Most often used in situations where you have filtered cells to a separate flow, changed them, and now want to apply the changes to the main flow.  
+	
+=== "Inputs and Outputs"
+	- **A** - cells flow which you want to override
+	- **B** - cells that will override 
+	- **Out** - overriding result
 
 <br />
 

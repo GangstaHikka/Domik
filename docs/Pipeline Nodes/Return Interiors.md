@@ -1,6 +1,6 @@
 # **Return Interiors**
 
-![[Pasted image 20211009190706.png]]{ align=left }    
+![[Pasted image 20211009190706.png]] 
 
 This node provides an alternative way to apply calculated rooms interiors. Use it if you want to make your pipeline structure  cleaner.  
 

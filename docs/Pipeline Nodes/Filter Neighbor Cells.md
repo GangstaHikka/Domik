@@ -1,6 +1,6 @@
 # **Filter Neighbor** 
 
-![[Pasted image 20210921175542.png]]{ align=left }    
+![[Pasted image 20210921175542.png]]
 
 This node filters target neighbor cells.  
 

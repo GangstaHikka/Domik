@@ -1,6 +1,6 @@
 # **Find And Replace**
 
-![[Pasted image 20211009214322.png]]{ align=left }  
+![[Pasted image 20211009214322.png]]
 
 This node allows you to replace some part with other part. It'll try to process replacing for all rotations of target cells if it's possible.  
 

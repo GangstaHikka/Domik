@@ -1,7 +1,7 @@
 # **Filter Floor**
 
 
-![[Pasted image 20210918154450.png]]{ align=left }    
+![[Pasted image 20210918154450.png]]
 Use this node to filter concrete floor.  
 
 <br /><br /><br />

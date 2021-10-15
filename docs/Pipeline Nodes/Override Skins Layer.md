@@ -1,7 +1,7 @@
 # **Override Skins Layer**
 
 
-![[Pasted image 20211009185628.png]]{ align=left }  
+![[Pasted image 20211009185628.png]]
 
 This node allows you to combine two Skins Layer flows together.  
 

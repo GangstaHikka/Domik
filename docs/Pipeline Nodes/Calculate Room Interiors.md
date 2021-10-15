@@ -1,6 +1,6 @@
 # **Calculate Room Interiors**
 
-![[Pasted image 20211004112605.png]]{ align=left }
+![[Pasted image 20211004112605.png]]
 
 This node calculates suitable interiors for rooms.  
 You have to return calculated interiors to the **END** node as it shows below.   

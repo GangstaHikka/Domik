@@ -1,6 +1,6 @@
 # **Exclude** 
 
-![[Pasted image 20210923143504.png]]{ align=left }    
+![[Pasted image 20210923143504.png]]   
 
 This node excludes cells B from cells A.   
 

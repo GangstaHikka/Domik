@@ -1,6 +1,6 @@
 # **Remove Part Later**
 
-![[Pasted image 20211007225920.png]]{ align=left }    
+![[Pasted image 20211007225920.png]]   
 
 This node collects an information about cells which you want to clear from some part in the future.  
 

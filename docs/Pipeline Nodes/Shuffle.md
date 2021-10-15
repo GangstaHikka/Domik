@@ -1,6 +1,6 @@
 # **Shuffle**
 
-![[Pasted image 20210929155230.png]]{ align=left }  
+![[Pasted image 20210929155230.png]]
 
 This node shuffles an order of cells in the flow.  
 Pretty useful if you want to add more random.  

@@ -5,7 +5,7 @@ hide:
 
 # **Filter Internal Doors Places**
 
-![[Pasted image 20210918181546.png]]{ align=left }    
+![[Pasted image 20210918181546.png]]
 This node filters best places for doors between rooms.  
 You have to add parts for all outputs and then merge them together in most situations.
 

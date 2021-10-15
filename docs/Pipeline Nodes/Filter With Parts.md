@@ -1,6 +1,6 @@
 # **Filter With Parts**
 
-![[Pasted image 20210922163351.png]]{ align=left }    
+![[Pasted image 20210922163351.png]]   
 
 This node filters cells with several parts.   
 

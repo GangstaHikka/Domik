@@ -1,6 +1,6 @@
 # **Remove Part**
 
-![[Pasted image 20211007172402.png]]{ align=left }    
+![[Pasted image 20211007172402.png]]  
 
 This node removes a part from cells.   
 

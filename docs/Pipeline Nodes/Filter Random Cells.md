@@ -1,6 +1,6 @@
 # **Filter Random Cells**
 
-![[Pasted image 20210918152655.png]]{ align=left }    
+![[Pasted image 20210918152655.png]]  
 
 Use this node to filter random cells  
 

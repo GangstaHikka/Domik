@@ -1,6 +1,6 @@
 # **Filter Random Input**
  
-![[Pasted image 20210922153208.png]]{ align=left }  
+![[Pasted image 20210922153208.png]]
 
 This node filters random input cells flow. 
 
