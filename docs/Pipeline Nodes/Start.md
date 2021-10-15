@@ -1,13 +1,13 @@
 # **Start**
   
-![[Pasted image 20210930150414.png]]
+![[Pasted image 20210930150414.png]]{ align=left }
 
-This is an enter point to the generation process.     
-Data from the House Generator component uses to create a bunch of start cells, so, if you want to add more floors to the generation process, you have to add them to the House Generator component and so on.  
-
-<br />
-
-- **Cells** - cells constructed from a data from the House Generator component.
+=== "Description"
+	This is an enter point to the generation process.     
+	Data from the House Generator component uses to create a bunch of start cells, so, if you want to add more floors to the generation process, you have to add them to the House Generator component and so on.  
+	
+=== "Inputs and Outputs"
+	- **Cells** - cells constructed from a data from the House Generator component.
 
 <br />
 

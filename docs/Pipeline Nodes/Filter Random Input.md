@@ -1,16 +1,16 @@
 # **Filter Random Input**
  
-![[Pasted image 20210922153208.png]]
+![[Pasted image 20210922153208.png]]{ align=left }
 
-This node filters random input cells flow. 
-
-<br /><br /><br />
-
-- **In** -  cell inputs to select random flow.
-- **Out** - result
-- **Mode:**
-	- **Single** - return only one cells flow
-	- **Multiple** - merge and return several cell flows
+=== "Description"
+	This node filters random input cells flow. 
+	
+=== "Inputs and Outputs"
+	- **In** -  cell inputs to select random flow.
+	- **Out** - result
+	- **Mode:**
+		- **Single** - return only one cells flow
+		- **Multiple** - merge and return several cell flows
 
 <br />
 

@@ -5,17 +5,21 @@ hide:
 
 # **Filter Internal Doors Places**
 
-![[Pasted image 20210918181546.png]]
-This node filters best places for doors between rooms.  
-You have to add parts for all outputs and then merge them together in most situations.
+![[Pasted image 20210918181546.png]]{ align=left }
 
-<br /><br />
+=== "Description"
+	This node filters best places for doors between rooms.  
+	You have to add parts for all outputs and then merge them together in most situations.
+	
+=== "Inputs and Outputs"
+	- **In** - cells to filter
+	- **0** - cells for door part with original rotation
+	- **90** - cells for door part rotated by 90 degrees
+	- **180** - cells for door part rotated by 180 degrees
+	- **270** - cells for door part rotated by 270 degrees
 
-- **In** - cells to filter
-- **0** - cells for door part with original rotation
-- **90** - cells for door part rotated by 90 degrees
-- **180** - cells for door part rotated by 180 degrees
-- **270** - cells for door part rotated by 270 degrees
+
+
 
 <br />
 

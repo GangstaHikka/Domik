@@ -1,13 +1,13 @@
 # **Merge**
 
-![[Pasted image 20210923145608.png]]
+![[Pasted image 20210923145608.png]]{ align=left }
 
-This node merges input cells together.  
-
-<br /><br />
-
-- **In** - cells to merge. Multiple input is accessible (obviously)
-- **Out** - merge result
+=== "Description"
+	This node merges input cells together.  
+	
+=== "Inputs and Outputs"
+	- **In** - cells to merge. Multiple input is accessible (obviously)
+	- **Out** - merge result
 
 ??? warning "Don't use a **Remove Part** node before the **merge** node!"
 

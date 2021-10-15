@@ -1,14 +1,14 @@
 # **Exclude** 
 
-![[Pasted image 20210923143504.png]]   
+![[Pasted image 20210923143504.png]]{ align=left } 
 
-This node excludes cells B from cells A.   
-
-<br /><br /><br /><br />
-
-- **A** - cells which you want to process
-- **B** - cells which you want to exclude from **A**
-- **Out** - result
+=== "Description"
+	This node excludes cells B from cells A.   
+	
+=== "Inputs and Outputs"
+	- **A** - cells which you want to process
+	- **B** - cells which you want to exclude from **A**
+	- **Out** - result
 
 <br />
 
