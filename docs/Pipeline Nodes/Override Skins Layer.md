@@ -1,15 +1,19 @@
 # **Override Skins Layer**
 
 
-![[Pasted image 20211009185628.png]]{ align=left }
+![[Pasted image 20211009185628.png]]
 
-=== "Description"
-	This node allows you to combine two Skins Layer flows together.  
+This node allows you to combine two Skins Layer flows together.  
 	
-=== "I / O"
-	- **A** - a skins layer flow that will be overriden.  
-	- **B** - a skins layer flow that will override an **A** flow.   
-	- **Result** - a result of overriding **A** flow by the **B** flow.  
+**Inputs:**
+
+- **A** - a skins layer flow that will be overriden.  
+- **B** - a skins layer flow that will override an **A** flow.
+
+**Outputs:**
+
+- **Result** - a result of overriding **A** flow by the **B** flow.  
+
 
 <br />
 

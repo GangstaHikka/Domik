@@ -1,19 +1,24 @@
 # **Filter With Parts**
 
-![[Pasted image 20210922163351.png]]{ align=left }   
+![[Pasted image 20210922163351.png]] 
 
-=== "Description"
-	This node filters cells with several parts.   
-	<br /><br /><br /><br /><br />
+This node filters cells with several parts.   
+
+**Inputs:**
+
+- **In** - cells to filter
+
+**Outputs:**
+
+- **Success** - filtered cells
+
+**Properties:**
+
+- **Part Fields** - targets to filter
+- **Filter With:** 
+	- **Any** - filter cells, which contain any target part.
+	- **All** - filter cells, which contains all target parts.
 	
-=== "I / O"
-	- **In** - cells to filter
-	- **Success** - filtered cells
-	- **Part Fields** - targets to filter
-	- **Filter With:** 
-		- **Any** - filter cells, which contain any target part.
-		- **All** - filter cells, which contains all target parts.
-
 <br />
 
 --------

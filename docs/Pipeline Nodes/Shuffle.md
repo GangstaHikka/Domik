@@ -1,14 +1,17 @@
 # **Shuffle**
 
-![[Pasted image 20210929155230.png]]{ align=left }
+![[Pasted image 20210929155230.png]]
 
-=== "Description"
-	This node shuffles an order of cells in the flow.  
-	Pretty useful if you want to add more random.  
-	
-=== "I / O"
-	- **In** - cells to shuffle
-	- **Out** - result
+This node shuffles an order of cells in the flow.  
+Pretty useful if you want to add more random.  
+
+**Inputs:**
+
+- **In** - cells to shuffle
+
+**Outputs:**
+
+- **Out** - result
 
 <br />
 

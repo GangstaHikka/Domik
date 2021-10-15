@@ -1,14 +1,17 @@
 # **Filter Intersections**
 
-![[Pasted image 20210921144425.png]]{ align=left }
+![[Pasted image 20210921144425.png]]
 
-=== "Description"
-	This node filters intersected cells between A and B inputs.
+This node filters intersected cells between A and B inputs.
 	
-=== "I / O"
-	- **A** - first pool of cells to check intersection
-	- **B** - second pool of cells to check intersection 
-	- **Out** - result
+**Inputs:**
+
+- **A** - first pool of cells to check intersection
+- **B** - second pool of cells to check intersection 
+
+**Outputs:**
+
+- **Out** - result
 
 <br />
 

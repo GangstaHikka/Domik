@@ -1,13 +1,16 @@
 # **Extract Positions** 
 
-![[Pasted image 20211009213733.png]]{ align=left }
+![[Pasted image 20211009213733.png]]
 
-=== "Description"
-	This node extract positions of input cells to use them later. Pretty useful to save positions of some processed cells.  
+This node extract positions of input cells to use them later. Pretty useful to save positions of some processed cells.  
 	
-=== "I / O"
-	- **Cells** - cells to extract
-	- **Positions** - extracted positions
+**Inputs:**
+
+- **Cells** - cells to extract
+
+**Outputs:**
+
+- **Positions** - extracted positions
 
 <br />
 

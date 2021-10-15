@@ -1,17 +1,23 @@
 # **Filter By Tag**
 
 
-![[Pasted image 20210918175526.png]]{ align=left }
+![[Pasted image 20210918175526.png]]
 
-=== "Description"
-	This node filters nodes by the [[Tag]].  
-	Use this node to filter and process a specific floor.  
+This node filters nodes by the [[Tag]].  
+Use this node to filter and process a specific floor.  
 	
-=== "I / O"
-	- **In** - cells to filter
-	- **Success** - filtered cells
-	- **Failed** - unfiltered cells
-	- **Floor Tag Field** - [[Tag]] which will be used as a filter
+**Inputs:**
+
+- **In** - cells to filter
+
+**Outputs:**
+
+- **Success** - filtered cells
+- **Failed** - unfiltered cells
+
+**Properties:**
+
+- **Floor Tag** - [[Tag]] that will be used as a filter
 
 <br />
 

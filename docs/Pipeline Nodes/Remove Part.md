@@ -1,14 +1,20 @@
 # **Remove Part**
 
-![[Pasted image 20211007172402.png]]{ align=left }  
+![[Pasted image 20211007172402.png]] 
 
-=== "Description"
-	This node removes a part from cells.   
+This node removes a part from cells.   
 	
-=== "I / O"
-	- **In** - cells in that you want to remove a part
-	- **Out** - removing result
-	- **Part** field - part that you want to remove from cells
+**Inputs:**
+
+- **In** - cells in that you want to remove a part
+
+**Outputs:**
+
+- **Out** - removing result
+
+**Properties:**
+
+- **Part** field - part that you want to remove from cells
 
 <br />
 

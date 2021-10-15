@@ -1,20 +1,22 @@
 # **Filter Neighbor** 
 
-![[Pasted image 20210921175542.png]]{ align=left }
+![[Pasted image 20210921175542.png]]
 
-=== "Description"
-	This node filters target neighbor cells.  
-	<br /><br /><br /><br /><br />
-	
-=== "I / O"
-	- **All** - the main cells flow
-	- **Target** - cells for which you want to find neighbors
-	- **Top** - top neighbor cells
-	- **Bottom** - bottom neighbor cells
-	- **Forward** - forward neighbor cells
-	- **Backward** - backward neighbor cells
-	- **Right** - right neighbor cells
-	- **Left** - left neighbor cells
+This node filters target neighbor cells.  
+
+**Inputs:**
+
+- **All** - the main cells flow
+- **Target** - cells for which you want to find neighbors
+
+**Outputs:**
+
+- **Top** - top neighbor cells
+- **Bottom** - bottom neighbor cells
+- **Forward** - forward neighbor cells
+- **Backward** - backward neighbor cells
+- **Right** - right neighbor cells
+- **Left** - left neighbor cells
 
 <br />
 

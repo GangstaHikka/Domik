@@ -1,13 +1,12 @@
 # **Return Skins Layer**
 
-![[Pasted image 20211009190607.png]]{ align=left }    
+![[Pasted image 20211009190607.png]]
 
-=== "Description"
-	This node provides an alternative way to apply a skins layer. Use it if you want to make your pipeline structure  cleaner.  
+This node provides an alternative way to apply a skins layer. Use it if you want to make your pipeline structure  cleaner.  
 	
-=== "I / O"
-	- **Skins Layer** - a skins layer that you want to return to the
-	- **End** node.
+**Inputs:**
+
+- **Skins Layer** - a skins layer that you want to return to the **End** node.
 
 <br />
 

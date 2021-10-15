@@ -1,12 +1,13 @@
 # **Return Interiors**
 
-![[Pasted image 20211009190706.png]]{ align=left } 
+![[Pasted image 20211009190706.png]]
 
-=== "Description"
-	This node provides an alternative way to apply calculated rooms interiors. Use it if you want to make your pipeline structure  cleaner.  
-	
-=== "I / O"
-	- **Room Interiors** - Room Interiors which you want to return to the **End** node 
+This node provides an alternative way to apply calculated rooms interiors. Use it if you want to make your pipeline structure  cleaner.  
+
+
+**Inputs:**
+
+- **Room Interiors** - Room Interiors which you want to return to the **End** node 
 
 <br />
 

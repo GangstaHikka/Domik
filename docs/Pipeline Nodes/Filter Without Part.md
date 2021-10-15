@@ -1,13 +1,20 @@
 # **Filter Without Part**
 
-![[Pasted image 20210922162138.png]]{ align=left }
+![[Pasted image 20210922162138.png]]
 
-=== "Description"
-	This node allows you to filter cells without some part.  
+This node allows you to filter cells without some part.  
 
-=== "I / O"
-	- **In** - cells to filter
-	- **Out** - cells without a target Part
+**Inputs:**
+
+- **In** - cells to filter
+
+**Outputs:**
+
+- **Out** - cells without a target Part
+
+**Properties:**
+
+- **Part** - part what you want to use as exclude filter
 
 <br />
 

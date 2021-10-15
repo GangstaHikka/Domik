@@ -1,18 +1,25 @@
 # **Place Stairs**
 
-![[Pasted image 20211007134646.png]]{ align=left }
+![[Pasted image 20211007134646.png]]
 
-=== "Description"
-	This node provides a placing of stairs.  
+This node provides a placing of stairs.  
+
+**Inputs:**
+
+- **All** - the main cells flow
+- **Target** - cells where you want to place stairs
+- **Forbidden** - cells that are forbidden to change
+
+**Outputs:**
+
+- **Out** - floor cells that are now connected by stairs
+- **Failed** - floor cells that have not been connected 
+
+**Properties:**
+
+- **Stairs** - a placeable object of stairs
+- **Min Stairwell Length** - a minimal length of the stairwell, low number makes this stairs less realistic but more universal.
 	
-=== "I / O"
-	- **All** - the main cells flow
-	- **Target** - cells where you want to place stairs
-	- **Forbidden** - cells that are forbidden to change
-	- **Successful** - floor cells that are now connected by stairs
-	- **Failed** - floor cells that have not been connected 
-	- **Stairs** - a placeable object of stairs
-	- **Min Stairwell Length** - a minimal length of the stairwell, low number makes this stairs less realistic but more universal.
 
 <br />
 

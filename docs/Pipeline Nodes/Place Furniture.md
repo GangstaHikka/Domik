@@ -1,15 +1,18 @@
 # **Place Furniture**
 
-![[Pasted image 20211004122733.png]]{ align=left }
+![[Pasted image 20211004122733.png]]
 
-=== "Description"
-	This node places interior furniture to input cells. 
+This node places interior furniture to input cells. 
+
+**Inputs:**
+
+- **In** - cells to place furniture
+- **Room Interiors** - An info about rooms of interiors. To calculate it use a **Calculate Room Interiors** node.
+
+**Outputs:**
+
+- **Out** - result
 	
-=== "I / O"
-	- **In** - cells to place furniture
-	- **Out** - result
-	- **Room Interiors** - An info about rooms of interiors. To calculate it use a **Calculate Room Interiors** node.
-
 
 ??? note "Read this to find out how to..."
 

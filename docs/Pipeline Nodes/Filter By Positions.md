@@ -1,14 +1,18 @@
 # **Filter By Positions**
 
-![[Pasted image 20210918173720.png]]{ align=left }
+![[Pasted image 20210918173720.png]]
 
-=== "Description"
-	This node filters cells by positions.  
+This node filters cells by positions.  
 	
-=== "I / O"
-	- **In** - cells to filter
-	- **Out** - filtered cells
-	- **Positions** - Positions of cells which should be filtered
+**Inputs:**
+
+- **In** - cells to filter
+- **Positions** - Positions of cells which should be filtered
+
+**Outputs:**
+
+- **Out** - filtered cells
+	
 
 <br />
 

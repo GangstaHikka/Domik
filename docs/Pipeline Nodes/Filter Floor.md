@@ -1,15 +1,21 @@
 # **Filter Floor**
 
-![[Pasted image 20210918154450.png]]{ align=left }
+![[Pasted image 20210918154450.png]]
 
-=== "Description"
-	Use this node to filter concrete floor.  
+Use this node to filter concrete floor.  
 	
-=== "I / O"
-	- **In** - cells to filter
-	- **Out** - filtered cells
-	- **Floor** - input number (optional).
-	- **Number field** - Number of the floor to filter
+**Inputs:**
+
+- **In** - cells to filter
+- **Floor** - input number (optional).
+
+**Outputs:**
+
+- **Out** - filtered cells
+
+**Properties:**
+
+- **Number** - Number of the floor to filter
 
 <br />
 

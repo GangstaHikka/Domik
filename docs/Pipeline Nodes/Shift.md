@@ -1,17 +1,22 @@
 # **Shift**
 
-![[Pasted image 20211009215700.png]]{ align=left }
+![[Pasted image 20211009215700.png]]
 
-=== "Description"
-	This node shifts input cells 
-	<br /><br /><br /><br />
-	
-=== "I / O"
-	- **In** - cells to shift
-	- **Out** - result of shifting
-	- **X** - X axis offset
-	- **Y** - Y axis offset
-	- **Floor** - floor offset
+This node shifts input cells 
+
+**Inputs:**
+
+- **In** - cells to shift
+
+**Outputs:**
+
+- **Out** - result of shifting
+
+**Properties:**
+
+- **X** - X axis offset
+- **Y** - Y axis offset
+- **Floor** - floor offset
 
 <br />
 

@@ -1,19 +1,31 @@
 # **Place Placeable Object**
 
-![[Pasted image 20211005165304.png]]{ align=left } 
+![[Pasted image 20211005165304.png]]
 
-=== "Description"
-	This node places a **PlaceableObject** or **PlaceableObjectsContainer** to input cells.  
+This node places a **PlaceableObject** or **PlaceableObjectsContainer** to input cells.  
 	
-=== "I / O"
-	- **In** - cells to place.
-	- **Out** - placing result.
-	- **Placing Mode:** 
-		- **Once Per House** - try to place this **Placeable Object** only once somewhere into the house.
-		- **Once Per Floor** - try to place this **Placeable Object** once per floor.
-		- **Once Per Room** - try to place this **Placeable Object** in every room.
-		- **In Every Cell** - try to place this **Placeable Object** in every input cell.
-	- **A Placeable field** - **PlaceableObject** of **PlaceableObjectsContainer** what you want to place.
+**Inputs:**
+
+- **In** - cells to place.
+
+**Outputs:**
+
+- **Out** - placing result.
+
+**Properties:**
+
+- **Placing Mode:** 
+	- **Once Per House** - try to place this **Placeable Object** only once somewhere into the house.
+	- **Once Per Floor** - try to place this **Placeable Object** once per floor.
+	- **Once Per Room** - try to place this **Placeable Object** in every room.
+	- **In Every Cell** - try to place this **Placeable Object** in every input cell.
+- **A Placeable** - [[Placeable Object]] or PlaceableObjectsContainer what you want to place.
+
+
+	
+	
+	
+	
 
 <br />
 

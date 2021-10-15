@@ -1,17 +1,22 @@
 # **Filter By Mask**
 
-![[Pasted image 20210918155141.png]]{ align=left }
+![[Pasted image 20210918155141.png]]
 
-=== "Description"
-	Use this node to filter cells by some mask.  
+Use this node to filter cells by some mask.  
 	
-=== "I / O"
-	- **In** - cells to filter
-	- **0** - cells filtered by mask
-	- **90** - cells filtered by mask that has been rotated by 90 degrees
-	- **180** - cells filtered by mask that has been rotated by 180 degrees 
-	- **270** - cells filtered by mask that has been rotated by 270 degrees 
-	- **Mask field** - a mask to use as a filter.
+**Inputs:**
+
+- **In** - cells to filter
+
+**Outputs:**
+
+- **0** - cells filtered by mask
+- **90** - cells filtered by mask that has been rotated by 90 degrees
+- **180** - cells filtered by mask that has been rotated by 180 degrees 
+- **270** - cells filtered by mask that has been rotated by 270 degrees 
+
+**Properties:**
+- **Mask** - a mask to use as a filter.
 
 <br />
 
