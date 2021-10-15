@@ -5,7 +5,7 @@
 === "Description"
 	This node allows you to replace some part with other part. It'll try to process replacing for all rotations of target cells if it's possible.  
 
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to process replacing
 	- **Out** - result of replacing
 	- **Target** - part to replace

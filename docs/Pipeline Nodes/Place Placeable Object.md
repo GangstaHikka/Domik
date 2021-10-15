@@ -5,7 +5,7 @@
 === "Description"
 	This node places a **PlaceableObject** or **PlaceableObjectsContainer** to input cells.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to place.
 	- **Out** - placing result.
 	- **Placing Mode:** 

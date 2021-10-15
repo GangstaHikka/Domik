@@ -6,7 +6,7 @@
 	This node filters cells with several parts.   
 	<br /><br /><br /><br /><br />
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to filter
 	- **Success** - filtered cells
 	- **Part Fields** - targets to filter

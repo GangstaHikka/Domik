@@ -6,7 +6,7 @@
 	This node calculates suitable interiors for rooms.  
 	You have to return calculated interiors to the **END** node as it shows below.   
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to analyze
 	- **Room Interiors** - suitable interiors for rooms
 	

@@ -5,7 +5,7 @@
 === "Description"
 	This node filters intersected cells between A and B inputs.
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **A** - first pool of cells to check intersection
 	- **B** - second pool of cells to check intersection 
 	- **Out** - result

@@ -5,7 +5,7 @@
 === "Description"
 	This node allows you to filter cells without some part.  
 
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to filter
 	- **Out** - cells without a target Part
 

@@ -5,7 +5,7 @@
 === "Description"
 	This node extract positions of input cells to use them later. Pretty useful to save positions of some processed cells.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **Cells** - cells to extract
 	- **Positions** - extracted positions
 

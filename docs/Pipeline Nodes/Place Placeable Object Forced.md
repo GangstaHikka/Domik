@@ -5,7 +5,7 @@
 === "Description"
 	This node is an alternative to **Add Part Node**, but, unlike it, it applies changes to the surrounding space.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **All** - the main cells flow
 	- **Target** - cells in that you want to place a placeable object
 	- **Out** - placing result

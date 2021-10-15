@@ -7,7 +7,7 @@
 	This node filters nodes by the [[Tag]].  
 	Use this node to filter and process a specific floor.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to filter
 	- **Success** - filtered cells
 	- **Failed** - unfiltered cells

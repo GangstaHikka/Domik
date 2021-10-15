@@ -4,7 +4,8 @@
 
 === "Description"
 	This node creates an override skins layer, use it if you want to add some special look for several cells.  
-=== "Inputs and Outputs"
+	
+=== "I / O"
 	- **In** - cells for which you want to override the look
 	- **Skins Layer** - a result data that you have to return to the end node to apply changes
 	- **Skin field** - skin that you want to apply to input cells.

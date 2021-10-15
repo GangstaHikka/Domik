@@ -5,7 +5,7 @@
 === "Description"
 	Use this node to filter random cells  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to filter
 	- **Success** - filtered cells
 	- **Failed** - сells that have not been filtered 

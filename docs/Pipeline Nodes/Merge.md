@@ -5,7 +5,7 @@
 === "Description"
 	This node merges input cells together.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to merge. Multiple input is accessible (obviously)
 	- **Out** - merge result
 

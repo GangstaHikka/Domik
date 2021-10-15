@@ -11,7 +11,7 @@ hide:
 	This node filters best places for doors between rooms.  
 	You have to add parts for all outputs and then merge them together in most situations.
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to filter
 	- **0** - cells for door part with original rotation
 	- **90** - cells for door part rotated by 90 degrees

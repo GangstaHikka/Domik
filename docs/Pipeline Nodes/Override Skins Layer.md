@@ -6,7 +6,7 @@
 === "Description"
 	This node allows you to combine two Skins Layer flows together.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **A** - a skins layer flow that will be overriden.  
 	- **B** - a skins layer flow that will override an **A** flow.   
 	- **Result** - a result of overriding **A** flow by the **B** flow.  

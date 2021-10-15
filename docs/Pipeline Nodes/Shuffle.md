@@ -6,7 +6,7 @@
 	This node shuffles an order of cells in the flow.  
 	Pretty useful if you want to add more random.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to shuffle
 	- **Out** - result
 

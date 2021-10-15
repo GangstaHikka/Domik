@@ -6,7 +6,7 @@
 === "Description"
 	This node applies parts removing requests.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to clean up
 	- **Out** - result
 	- **Remove** - parts removing requests which you want to apply

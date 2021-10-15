@@ -5,7 +5,7 @@
 === "Description"
 	This node filters random input cells flow. 
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** -  cell inputs to select random flow.
 	- **Out** - result
 	- **Mode:**

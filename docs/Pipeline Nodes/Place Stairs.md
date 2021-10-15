@@ -5,7 +5,7 @@
 === "Description"
 	This node provides a placing of stairs.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **All** - the main cells flow
 	- **Target** - cells where you want to place stairs
 	- **Forbidden** - cells that are forbidden to change

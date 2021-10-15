@@ -5,7 +5,7 @@
 === "Description"
 	This node provides an alternative way to apply calculated rooms interiors. Use it if you want to make your pipeline structure  cleaner.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **Room Interiors** - Room Interiors which you want to return to the **End** node 
 
 <br />

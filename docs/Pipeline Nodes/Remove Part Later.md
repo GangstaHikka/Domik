@@ -5,7 +5,7 @@
 === "Description"
 	This node collects an information about cells which you want to clear from some part in the future.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to clear
 	- **Out** - result
 	- **Part** field - part that you want to remove from cells

@@ -5,7 +5,7 @@
 === "Description"
 	This node filters cells by positions.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to filter
 	- **Out** - filtered cells
 	- **Positions** - Positions of cells which should be filtered

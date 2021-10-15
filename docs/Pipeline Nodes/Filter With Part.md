@@ -5,7 +5,7 @@
 === "Description"
 	This node allows you to filter cells which contains some part. 
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to filter
 	- **Success** - cells with a target Part
 	- **Failed** - cells without a target Part

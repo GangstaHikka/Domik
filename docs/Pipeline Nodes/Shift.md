@@ -6,7 +6,7 @@
 	This node shifts input cells 
 	<br /><br /><br /><br />
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to shift
 	- **Out** - result of shifting
 	- **X** - X axis offset

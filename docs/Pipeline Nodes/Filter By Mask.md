@@ -5,7 +5,7 @@
 === "Description"
 	Use this node to filter cells by some mask.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to filter
 	- **0** - cells filtered by mask
 	- **90** - cells filtered by mask that has been rotated by 90 degrees

@@ -6,7 +6,7 @@
 	This node splits input cells to rooms.  
 	Every cell has its own RoomId, by default it's zero. Splitting By Rooms node splits cells by setting new RoomId to them, so, after this process, you can work with borders of cells by filtering them with a Mask.  
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells to split
 	- **Out** - result of splitting.
 	- **Min Size** - minimum side length of rooms

@@ -5,7 +5,7 @@
 === "Description"
 	This node removes a part from cells.   
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **In** - cells in that you want to remove a part
 	- **Out** - removing result
 	- **Part** field - part that you want to remove from cells

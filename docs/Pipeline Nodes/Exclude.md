@@ -5,7 +5,7 @@
 === "Description"
 	This node excludes cells B from cells A.   
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **A** - cells which you want to process
 	- **B** - cells which you want to exclude from **A**
 	- **Out** - result

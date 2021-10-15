@@ -6,7 +6,7 @@
 	This node filters target neighbor cells.  
 	<br /><br /><br /><br /><br />
 	
-=== "Inputs and Outputs"
+=== "I / O"
 	- **All** - the main cells flow
 	- **Target** - cells for which you want to find neighbors
 	- **Top** - top neighbor cells
