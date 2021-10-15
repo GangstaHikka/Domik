@@ -1,16 +1,18 @@
 # **Calculate Room Interiors**
 
-![[Pasted image 20211004112605.png]]{ align=left }
+![[Pasted image 20211004112605.png]]
 
-=== "Description"
-	This node calculates suitable interiors for rooms.  
-	You have to return calculated interiors to the **END** node as it shows below.   
+This node calculates suitable interiors for rooms.  
+You have to return calculated interiors to the **END** node as it shows below.   
 	
-=== "I / O"
-	- **In** - cells to analyze
-	- **Room Interiors** - suitable interiors for rooms
-	
-	
+**Inputs:**
+
+- **In** - cells to analyze
+
+**Outputs:**
+
+- **Room Interiors** - suitable interiors for rooms
+		
 <br />
 
 --------

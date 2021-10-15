@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pipeline Nodes/Start.md",
+            "file": "Pipeline Nodes/Create Skins Layer.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pipeline Nodes/Start.md",
+            "file": "Pipeline Nodes/Create Skins Layer.md",
             "mode": "preview"
           }
         },
@@ -55,7 +55,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pipeline Nodes/Start.md",
+                "file": "Pipeline Nodes/Create Skins Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "a81c5465b5de5cf7",
   "lastOpenFiles": [
+    "Pipeline Nodes/Create Skins Layer.md",
+    "Pipeline Nodes/Calculate Room Interiors.md",
+    "Pipeline Nodes/Apply Parts Removing.md",
+    "Pipeline Nodes/Override.md",
+    "Pipeline Nodes/Add Part.md",
+    "Pipeline Nodes/Override Skins Layer.md",
     "Pipeline Nodes/Start.md",
     "Pipeline Nodes/Split Into Rooms.md",
     "Pipeline Nodes/Shuffle.md",
-    "Pipeline Nodes/Shift.md",
-    "Pipeline Nodes/Return Skins Layer.md",
-    "Pipeline Nodes/Return Interiors.md",
-    "Pipeline Nodes/Remove Part Later.md",
-    "Pipeline Nodes/Remove Part.md",
-    "Pipeline Nodes/Place Stairs.md",
-    "Pipeline Nodes/Place Placeable Object Forced.md"
+    "Pipeline Nodes/Shift.md"
   ]
 }

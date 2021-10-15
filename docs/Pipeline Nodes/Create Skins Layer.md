@@ -1,14 +1,20 @@
 # **Create Skins Layer**
 
-![[Pasted image 20211008164616.png]]{ align=left }
+![[Pasted image 20211008164616.png]]
 
-=== "Description"
-	This node creates an override skins layer, use it if you want to add some special look for several cells.  
+This node creates an override skins layer, use it if you want to add some special look for several cells.  
 	
-=== "I / O"
-	- **In** - cells for which you want to override the look
-	- **Skins Layer** - a result data that you have to return to the end node to apply changes
-	- **Skin field** - skin that you want to apply to input cells.
+**Inputs:**
+
+- **In** - cells for which you want to override the look
+
+**Outputs:** 
+- **Skins Layer** - a result data that you have to return to the end node to apply changes
+
+**Properties:**
+- **Skin** - skin that you want to apply to input cells.
+	
+
 
 <br />
 

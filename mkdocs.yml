@@ -62,7 +62,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
   palette:
-    scheme: slate
+    scheme: default
     primary: black
     accent: amber
   font:

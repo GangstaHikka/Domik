@@ -1,15 +1,17 @@
 # **Apply Parts Removing**
 
 
-![[Pasted image 20211015144631.png]]{ align=left }
+![[Pasted image 20211015144631.png]]
 
-=== "Description"
-	This node applies parts removing requests.  
+This node applies parts removing requests.  
 	
-=== "I / O"
-	- **In** - cells to clean up
-	- **Out** - result
-	- **Remove** - parts removing requests which you want to apply
+**Inputs:**
+
+- **In** - cells to clean up
+- **Remove** - parts removing requests which you want to apply
+
+**Outputs:**
+- **Out** - result
 
 <br />
 
