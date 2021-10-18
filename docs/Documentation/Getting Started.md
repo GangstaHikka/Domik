@@ -51,13 +51,13 @@ It uses a visual scripting system to determine a logic of generation and designe
 
 ## Pipeline Nodes
 
-- **Action:**
+- Action:
 	- [[Extract Positions]]
 	- [[Find And Replace]]
 	- [[Shift]]
-- **Add:**
+- Add:
 	- [[Add Part]]
-- **Filter:**
+- Filter:
 	- [[Filter By Mask]]
 	- [[Filter By Positions]]
 	- [[Filter By Tag]]
@@ -70,29 +70,29 @@ It uses a visual scripting system to determine a logic of generation and designe
 	- [[Filter With Part]]
 	- [[Filter With Parts]]
 	- [[Filter Without Part]]
-- **Flow:**
+- Flow:
 	- [[Exclude]]
 	- [[Merge]]
 	- [[Override]]
 	- [[Shuffle]]
-- **Interiors:**
+- Interiors:
 	- [[Calculate Room Interiors]]
 	- [[Place Furniture]]
 	- [[Return Interiors]]
 	- [[Split Into Rooms]]
-- **Main:**
+- Main:
 	- [[End]]
 	- [[Start]]
-- **Place:**
+- Place:
 	- [[Place Part By Mask For All Rotations]]
 	- [[Place Placeable Object Forced]]
 	- [[Place Placeable Object]]
 	- [[Place Stairs]]
-- **Remove:**
+- Remove:
 	- [[Apply Parts Removing]]
 	- [[Remove Part]]
 	- [[Remove Part Later]]
-- **Skins:**
+- Skins:
 	- [[Create Skins Layer]]
 	- [[Override Skins Layer]]
 	- [[Return Skins Layer]]
