@@ -1,6 +1,6 @@
 # Placeable Object
 
-Placeable Object is, basically, a [[Part]] with info where you want to place it.
+Placeable Object is, basically, a [[Part OLD]] with info where you want to place it.
 Mostly uses for furniture, but you can use it even for place walls or something else.
 
 ![[Pasted image 20210104194857.png]]
@@ -11,14 +11,14 @@ Preview handles a placeable object automatically, so you can see changes instant
 ![[Pasted image 20210104195025.png]]
 
 
-- Part - reference to the [[Part]] which you want to place somewhere.
+- Part - reference to the [[Part OLD]] which you want to place somewhere.
 - Find By - what you want to use to find a better place for this part?
-	- Place - use [[Overview - delete me/Place]]
+	- Place - use [[Place OLD]]
 	- Mask - use Mask
 - Reference to Place or Mask
 
-> Please not that you don't wan't to make a Placeable Object for every rotations of [[Part]]. [[Part]] will be rotated automatically depending on found place.
-> If [[Part]] didn't rotated check [[Part]] rotation references.
+> Please not that you don't wan't to make a Placeable Object for every rotations of [[Part OLD]]. [[Part OLD]] will be rotated automatically depending on found place.
+> If [[Part OLD]] didn't rotated check [[Part OLD]] rotation references.
 
 
 

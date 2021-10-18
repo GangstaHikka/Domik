@@ -4,5 +4,5 @@ To create a tag right click on some folder -> Create -> Domik -> Tag.
 ![[Pasted image 20210105162211.png]]
 
 See also:
-- [[Overview - delete me/House Generator]] -> Floors -> Tags
+- [[House Generator OLD]] -> Floors -> Tags
 - Filter By Tag node

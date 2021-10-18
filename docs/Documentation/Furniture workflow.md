@@ -1,4 +1,4 @@
-# Furniture
+# **Furniture workflow**
 
 From the Domik perspective there is no difference between walls, doors, furniture or something else.
 It's all parts. 
@@ -84,7 +84,7 @@ Let's checkout the result.
 If Preview Systems draws parts you did everything right.
 Now you can use it to create Placeable Object!
 
-Read next: [[Documentation/Placeable Object]]
+Read next: [[Placeable Object]]
 
 ## Automated Workflow
 Different way to add new stuff is using auto-binding tools. **This workflow is recommended.**

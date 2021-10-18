@@ -3,7 +3,7 @@
 
 ![[Pasted image 20210918175526.png]]
 
-This node filters nodes by the [[Tag]].  
+This node filters nodes by the [[Tag OLD]].  
 Use this node to filter and process a specific floor.  
 	
 **Inputs:**
@@ -17,7 +17,7 @@ Use this node to filter and process a specific floor.
 
 **Properties:**
 
-- **Floor Tag** - [[Tag]] that will be used as a filter
+- **Floor Tag** - [[Tag OLD]] that will be used as a filter
 
 <br />
 

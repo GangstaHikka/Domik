@@ -1,5 +1,5 @@
 # Placeable Objects Container
-Placeable objects container is a scriptable object with references to [[Placeable Object OLD]] or [[Placeable Objects Container]].
+Placeable objects container is a scriptable object with references to [[Placeable Object OLD]] or [[Placeable Objects Container OLD]].
 
 ![[Pasted image 20210104200256.png]]
 

@@ -1,9 +1,9 @@
 # Skin
-**Skin** is a bridge between [[Part]] and it's in-game representation.
-From [[Overview - delete me/House Generator]] perspective, house is a structured collection of [[Part]], so you need to convert these parts to real game objects. Luckily, we have a system that does this automatically.
+**Skin** is a bridge between [[Part OLD]] and it's in-game representation.
+From [[House Generator OLD]] perspective, house is a structured collection of [[Part OLD]], so you need to convert these parts to real game objects. Luckily, we have a system that does this automatically.
 And this system is... the **Skin**, yay!
 
-Skin contains a list of [[Part Builder]]. Every [[Part Builder]] contains a bind to [[Part]].
+Skin contains a list of [[Part Builder OLD]]. Every [[Part Builder OLD]] contains a bind to [[Part OLD]].
 In process of building, the HouseBuilder asks every available **Skin** if it has anything for this part.
 
 If skin contains a PartBuilder with binding to the processing part, HouseGenerator takes this PartBuilder and runs the Part Building Process.

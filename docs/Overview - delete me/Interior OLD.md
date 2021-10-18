@@ -7,12 +7,12 @@ Place Interiors Node will try to find suitable interiors for all rooms in the ho
 ---
 
 ## Furniture
-Furniture - a list of [[Placeable Object OLD]] or [[Placeable Objects Container]]. Add here all that you want to see in this room.
+Furniture - a list of [[Placeable Object OLD]] or [[Placeable Objects Container OLD]]. Add here all that you want to see in this room.
 
 ---
 
 ## Skins
-Skins - skins which will override a Base Skin from the [[Overview - delete me/House Generator]]. If you want to change a default look of walls, ceiling, floor, etc. just make new Skin with different materials for them and add here.
+Skins - skins which will override a Base Skin from the [[House Generator OLD]]. If you want to change a default look of walls, ceiling, floor, etc. just make new Skin with different materials for them and add here.
 
 ---
 

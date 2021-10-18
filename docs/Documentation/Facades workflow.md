@@ -1,4 +1,4 @@
-# How to work with Facades?
+# **Facades workflow**
 As you may read before, everything about the appearance, changes through the skin system. So, if we want to change view of the facade we should change house base skins. But in case of house skins things little bit difficultly. Facade of the house is splitted to five segments - thin facade, regular facade, thick facade, columns and plinth, so you can combine them as you want by changing floors tags. Or you can override House Skins in the House Generator component by adding new skins in top of the list. 
 
 ## **Change facades by floor tags**
@@ -11,7 +11,7 @@ It works because an example pipeline includes special logic.
 
 Here cells of floors with Facade tags will be filtered and processed to achive the final result. 
 You can create your own Tags and generation steps also. 
-Read more: [[Floor Tags]]
+Read more: [[Floor Tag]]
 
 ## **Change facades by base skins**
 

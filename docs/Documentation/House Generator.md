@@ -88,7 +88,7 @@ Select some floor or add new to start changes.
 **Panels below represents settings of selected house.**
 
 - **Name** - name of selected floor.
-- **Interiors** - List of possible [[Interior]] for selected floor. If you want to increase chance of placing some interior - reorder it to top of the list.
+- **Interiors** - List of possible [[Interior OLD]] for selected floor. If you want to increase chance of placing some interior - reorder it to top of the list.
 - **Tags** - floor tags. This floor will be marked by these tags, so you'll be able to filter this floor by some of these tags and make changes.
 	
 	Example of filtering by tag:

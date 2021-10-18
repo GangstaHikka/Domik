@@ -99,10 +99,10 @@ To create a new node Right Click in the graph -> Create Node -> *Select Category
 	The Add Part to Part node filters cells by part and add another part to these cells.
 	
 	_Parameters:_
-	- **target** - a [[Part]] which will be used as filter
-	- **part** - a [[Part]] which will be added to filtered cells
+	- **target** - a [[Part OLD]] which will be used as filter
+	- **part** - a [[Part OLD]] which will be added to filtered cells
 	- **mode** 
-		- **No Rotation** - just find cells with target [[Part]] and add new part to them
+		- **No Rotation** - just find cells with target [[Part OLD]] and add new part to them
 		- **Rotate Only Target** - find cells with all possible target rotations and add new part to them
 		- **Rotate Target And Part** - sync target part and new part rotations.
 	
@@ -322,7 +322,7 @@ To create a new node Right Click in the graph -> Create Node -> *Select Category
 
 	![[Place Part Node.png]]
 
-	The Place Part node filters cells by mask and add a [[Part]] to them.
+	The Place Part node filters cells by mask and add a [[Part OLD]] to them.
 
 
 

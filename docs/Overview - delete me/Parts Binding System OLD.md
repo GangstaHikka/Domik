@@ -10,8 +10,8 @@ Let's take a closer look at the binding element:
 ![[binding element.png]]
 
 
-1. Reference to the [[Part Builder]].
-2. Reference to relevant [[Part]].
+1. Reference to the [[Part Builder OLD]].
+2. Reference to relevant [[Part OLD]].
 3. **Rotation offset**.
 
 
@@ -22,7 +22,7 @@ Let's take a closer look at the binding element:
 ---
 
 
-In process of generation the House Builder tries to find a relevant look to the [[Part]], so it asks every accessible skin if they have some look to the current [[Part]]. Look is a [[Part Builder]] as you might have guessed. And [[Skin]] answers him something like "Yey, I have one, take this ([[Part Builder]] and then rotate it by (**Rotation offset**)".
+In process of generation the House Builder tries to find a relevant look to the [[Part OLD]], so it asks every accessible skin if they have some look to the current [[Part OLD]]. Look is a [[Part Builder OLD]] as you might have guessed. And [[Skin OLD]] answers him something like "Yey, I have one, take this ([[Part Builder OLD]] and then rotate it by (**Rotation offset**)".
 
 That's how it works.
 But how to use it? 
@@ -32,7 +32,7 @@ Well, here are several ways to do it.
 
 ## Manual Binding
 
-The easiest way is just add new binding element and drag'n'drop relevant [[Part]] and [[Part Builder]], and write a rotation offset.
+The easiest way is just add new binding element and drag'n'drop relevant [[Part OLD]] and [[Part Builder OLD]], and write a rotation offset.
 
 But I don't recommend it because it makes workflow too tiring.
 Instead of it I definitely recommend to use an **Auto Binding**.
@@ -65,19 +65,19 @@ You don't need to add binding pairs manually, instead of it you must comply the 
 ---
 
 
-In process of binding [[Skin]] tries to find a part with the same name as current [[Part Builder]]. If it's found, it makes a new binding pair, else there are two scenarious:
+In process of binding [[Skin OLD]] tries to find a part with the same name as current [[Part Builder OLD]]. If it's found, it makes a new binding pair, else there are two scenarious:
 
-1. Ignore this [[Part Builder]]
-2. Make new [[Part]] for this [[Part Builder]]. 
+1. Ignore this [[Part Builder OLD]]
+2. Make new [[Part OLD]] for this [[Part Builder OLD]]. 
 
 	!!! note ""
 		To find out how to select what to do with unbound PartBuilders read below. <br/>
 
-If [[Part Builder]] has an  **[auto]** prefix, Binding System will try to find 4 Parts with **[0]**, **[90]**, **[180]** and **[270]** prefixes. Result will looks like that:
+If [[Part Builder OLD]] has an  **[auto]** prefix, Binding System will try to find 4 Parts with **[0]**, **[90]**, **[180]** and **[270]** prefixes. Result will looks like that:
 
 ![[Pasted image 20210102185737.png]]
 
-As you can see here we have 4 references to the same [[Part Builder]], but with different Parts, and we also have relevant rotation offsets for them. 
+As you can see here we have 4 references to the same [[Part Builder OLD]], but with different Parts, and we also have relevant rotation offsets for them. 
 
 ---
 

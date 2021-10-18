@@ -2,7 +2,7 @@
 
 Changes of things look provides by the **skin** system.
 You want to replace a chair model? Replace it in the skin.  
-What is a skin? Read here: [[Skin]]
+What is a skin? Read here: [[Skin OLD]]
 
 The same for walls, doors, facades etc. Everything changes by changing skins.
 
