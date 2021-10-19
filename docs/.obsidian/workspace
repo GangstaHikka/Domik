@@ -6,28 +6,13 @@
       {
         "id": "a81c5465b5de5cf7",
         "type": "leaf",
-        "dimension": 49.38101788170564,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/How to change room walls.md",
+            "file": "Documentation/Getting Started.md",
             "mode": "source"
           }
-        },
-        "group": "ff4d1920eaace940"
-      },
-      {
-        "id": "04c53aade860a2b9",
-        "type": "leaf",
-        "dimension": 50.61898211829436,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documentation/How to change room walls.md",
-            "mode": "preview"
-          }
-        },
-        "group": "ff4d1920eaace940"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/How to change room walls.md",
+                "file": "Documentation/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +88,8 @@
   },
   "active": "a81c5465b5de5cf7",
   "lastOpenFiles": [
+    "Documentation/Getting Started.md",
+    "Documentation/How to change house floors.md",
     "Documentation/How to change room walls.md",
     "Documentation/Untitled.md",
     "Documentation/Skin.md",
@@ -110,8 +97,6 @@
     "Documentation/Pallets Random Container.md",
     "Documentation/Skins.md",
     "Documentation/Palletes Random Container.md",
-    "Documentation/How to change house floors.md",
-    "Documentation/How to change a house size.md",
-    "Pipeline Nodes/Add Part.md"
+    "Documentation/How to change a house size.md"
   ]
 }
