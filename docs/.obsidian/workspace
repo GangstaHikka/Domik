@@ -6,11 +6,11 @@
       {
         "id": "a81c5465b5de5cf7",
         "type": "leaf",
-        "dimension": 49.24346629986245,
+        "dimension": 49.38101788170564,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/Getting Started.md",
+            "file": "Documentation/How to change house floors.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "04c53aade860a2b9",
         "type": "leaf",
-        "dimension": 50.75653370013755,
+        "dimension": 50.61898211829436,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/Getting Started.md",
+            "file": "Documentation/How to change house floors.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Getting Started.md",
+                "file": "Documentation/How to change house floors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "a81c5465b5de5cf7",
   "lastOpenFiles": [
-    "Documentation/Getting Started.md",
-    "Documentation/Facades workflow.md",
-    "Documentation/Main Concepts/Floor Tag.md",
-    "Documentation/Tutorials/How to replace models or materials.md",
-    "Documentation/Tutorials/How to create a procedural house.md",
-    "assets/WCDDFY/multiple houses.gif",
-    "Documentation/Main Concepts/House Generator.md",
-    "assets/WCDDFY/regen.gif",
-    "Documentation/Tutorials/How to change house floors.md",
-    "Documentation/Tutorials/Furniture workflow.md"
+    "Documentation/How to change house floors.md",
+    "Documentation/How to change room walls.md",
+    "Documentation/How to change a house size.md",
+    "Pipeline Nodes/Add Part.md",
+    "Pipeline Nodes/Apply Parts Removing.md",
+    "Pipeline Nodes/Calculate Room Interiors.md",
+    "Pipeline Nodes/Create Skins Layer.md",
+    "Pipeline Nodes/End.md",
+    "Pipeline Nodes/Exclude.md",
+    "Pipeline Nodes/Extract Positions.md"
   ]
 }

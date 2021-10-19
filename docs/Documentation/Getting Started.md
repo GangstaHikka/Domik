@@ -22,9 +22,9 @@ It uses a visual scripting system to determine a logic of generation and designe
 
 ## Tutorials
 - [[How to create a procedural house]]
-- [[How to change house size]]
+- [[How to change a house size]]
 - [[How to change house floors]]
-- [[How to create new floor]]
+- [[How to create new floor OLD]]
 - [[How to change room walls]]
 - [[How to replace models or materials]]
 - [[Furniture workflow]]
@@ -43,7 +43,7 @@ It uses a visual scripting system to determine a logic of generation and designe
 - [[Mask]]
 - [[Placeable Object]]
 - [[Placeable Objects Container]]
-- [[Interiors]]
+- [[Interior]]
 - [[Floor Tag]]
 - [[Pipeline]]
 

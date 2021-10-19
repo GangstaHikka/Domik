@@ -56,7 +56,7 @@ theme:
   # - navigation.instant
     - navigation.indexes
   #  - navigation.expand
-  #  - toc.integrate
+    - toc.integrate
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
@@ -153,9 +153,8 @@ nav:
     - Getting Started: Documentation/Getting Started.md
     - Tutorials:
         - How to create a procedural house: Documentation/How to create a procedural house.md
-        - How to change house size: Documentation/How to change house size.md
+        - How to change a house size: Documentation/How to change a house size.md
         - How to change house floors: Documentation/How to change house floors.md
-        - How to create new floor: Documentation/How to create new floor.md
         - How to change room walls: Documentation/How to change room walls.md
         - How to replace models or materials: Documentation/How to replace models or materials.md
         - Furniture workflow: Documentation/Furniture workflow.md
@@ -170,7 +169,8 @@ nav:
         - Mask: Documentation/Mask.md
         - Placeable Object: Documentation/Placeable Object.md
         - Placeable Objects Container: Documentation/Placeable Objects Container.md
-        - Interiors: Documentation/Interiors.md
+        - Floor: Documentation/Floor.md
+        - Interior: Documentation/Interior.md
         - Floor Tag: Documentation/Floor Tag.md
         - Pipeline: Documentation/Pipeline.md
   - Pipeline Nodes:

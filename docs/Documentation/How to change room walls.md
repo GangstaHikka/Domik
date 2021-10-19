@@ -1,8 +1,23 @@
-# How to change room walls?
+---
+hide:
+  - toc
+---
+# **How to change room walls**
 
-In the Domik if you want to change look of something,  including room walls, you should change some skin or create new. So let's do it!
+To change the look of the room, you have to change its [[Skins]].
+In this tutorial you'll see how to do it by the example of changing of room walls.  
 
-Select some interior and find it in the house.
+Skins of the room are stored in the [[Interior]]. Interior of the room is set in the process of the [[Calculate Room Interiors]] node, basically this node just sets some interior from the [[Floor]] interiors list.   
+
+So how do you figure out which interior is applied to a room?  
+You can do it visually or you can look at the name of the room, this name is the same as the name of the applied interior.  
+
+=== "Rooms"
+	![[Pasted image 20211019132827.png]]
+
+=== "Interiors"
+	![[Pasted image 20211019132900.png]]
+
 In this tutorial I'll work with Living Room.
 
 
