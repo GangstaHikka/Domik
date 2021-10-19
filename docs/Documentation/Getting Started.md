@@ -37,7 +37,7 @@ It uses a visual scripting system to determine a logic of generation and designe
 - [[House Generator]]
 - [[Preview System]]
 - [[Part]]
-- [[Skins]]
+- [[Skin]]
 - [[Palette]]
 - [[Place]]
 - [[Mask]]

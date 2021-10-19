@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/How to change house floors.md",
+            "file": "Documentation/How to change room walls.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/How to change house floors.md",
+            "file": "Documentation/How to change room walls.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/How to change house floors.md",
+                "file": "Documentation/How to change room walls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "a81c5465b5de5cf7",
   "lastOpenFiles": [
-    "Documentation/How to change house floors.md",
     "Documentation/How to change room walls.md",
+    "Documentation/Untitled.md",
+    "Documentation/Skin.md",
+    "Documentation/Palette.md",
+    "Documentation/Pallets Random Container.md",
+    "Documentation/Skins.md",
+    "Documentation/Palletes Random Container.md",
+    "Documentation/How to change house floors.md",
     "Documentation/How to change a house size.md",
-    "Pipeline Nodes/Add Part.md",
-    "Pipeline Nodes/Apply Parts Removing.md",
-    "Pipeline Nodes/Calculate Room Interiors.md",
-    "Pipeline Nodes/Create Skins Layer.md",
-    "Pipeline Nodes/End.md",
-    "Pipeline Nodes/Exclude.md",
-    "Pipeline Nodes/Extract Positions.md"
+    "Pipeline Nodes/Add Part.md"
   ]
 }

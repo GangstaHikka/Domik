@@ -53,6 +53,7 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   features:
+    - header.autohide
   # - navigation.instant
     - navigation.indexes
   #  - navigation.expand
@@ -164,7 +165,9 @@ nav:
         - House Generator: Documentation/House Generator.md
         - Preview System: Documentation/Preview System.md
         - Part: Documentation/Part.md
+        - Skin: Documentation/Skin.md
         - Palette: Documentation/Palette.md
+        - Palettes Random Container: Documentation/Palettes Random Container.md
         - Place: Documentation/Place.md
         - Mask: Documentation/Mask.md
         - Placeable Object: Documentation/Placeable Object.md
