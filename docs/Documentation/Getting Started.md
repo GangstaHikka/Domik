@@ -24,6 +24,7 @@ It uses a visual scripting system to determine a logic of generation and designe
 - [[How to create a procedural house]]
 - [[How to change a house size]]
 - [[How to change house floors]]
+- [[How the Domik builds a house]]
 - [[How to change room walls]]
 - [[How to replace models or materials]]
 - [[Furniture workflow]]
