@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/How to change room walls.md",
+            "file": "Documentation/How to replace models or materials.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/How to change room walls.md",
+            "file": "Documentation/How to replace models or materials.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/How to change room walls.md",
+                "file": "Documentation/How to replace models or materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "a81c5465b5de5cf7",
   "lastOpenFiles": [
-    "Documentation/How to change room walls.md",
+    "Documentation/How to replace models or materials.md",
     "Documentation/How the Domik builds a house.md",
+    "Documentation/How to change room walls.md",
     "Documentation/How to change a house size.md",
     "Old stuff/GettingStarted.md",
     "Documentation/Getting Started.md",
     "Documentation/Deep Dive Into House Building Process.md",
     "Documentation/Untitled.md",
     "Documentation/How to change house floors.md",
-    "Documentation/Skin.md",
-    "Documentation/Palette.md"
+    "Documentation/Skin.md"
   ]
 }
