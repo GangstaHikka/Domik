@@ -8,7 +8,7 @@ It uses a visual scripting system to determine a logic of generation and designe
 - Powerful visual scripting system - [**the Pipeline**](Introduction%20to%20the%20Pipeline.md).
 - [Supports of third party assets.](How%20to%20replace%20models%20or%20materials.md)
 - **Seed** number based generation, feel free to integrate it with your own procedural worlds.
-- Supports of **all types of gameobjects**, so you can place something like a spawn-point right in a house. [Just use a furniture system](Furniture%20workflow.md).
+- Supports of **all types of gameobjects**, so you can place something like a spawn-point right in a house. [Just use a furniture system](How%20to%20add%20new%20stuff.md).
 - **In-Editor** Generation.
 - **Runtime** Generation.
 - **Multiple floors**.
@@ -27,7 +27,8 @@ It uses a visual scripting system to determine a logic of generation and designe
 - [[How the Domik builds a house]]
 - [[How to change room walls]]
 - [[How to replace models or materials]]
-- [[Furniture workflow]]
+- [[How to add new stuff]]
+- [[How to create and use a Placeable Object]]
 - [[Facades workflow]]
 - [[Deep Dive Into House Building Process]]
 

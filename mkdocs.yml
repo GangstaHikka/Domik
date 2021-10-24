@@ -159,7 +159,8 @@ nav:
         - How the Domik builds a house: Documentation/How the Domik builds a house.md
         - How to change room walls: Documentation/How to change room walls.md
         - How to replace models or materials: Documentation/How to replace models or materials.md
-        - Furniture workflow: Documentation/Furniture workflow.md
+        - How to add new stuff: Documentation/How to add new stuff.md
+        - How to create and use a Placeable Object: Documentation/How to create and use a Placeable Object.md
         - Facades workflow: Documentation/Facades workflow.md
         - Deep dive into house building process: Documentation/Deep Dive Into House Building Process.md
     - Main Concepts:
