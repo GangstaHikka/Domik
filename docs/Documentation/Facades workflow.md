@@ -1,47 +1,65 @@
 # **Facades workflow**
-As you may read before, everything about the appearance, changes through the skin system. So, if we want to change view of the facade we should change house base skins. But in case of house skins things little bit difficultly. Facade of the house is splitted to five segments - thin facade, regular facade, thick facade, columns and plinth, so you can combine them as you want by changing floors tags. Or you can override House Skins in the House Generator component by adding new skins in top of the list. 
+
+The look of facades is controlling by two systems:
+
+- **Skin** system
+- **Floor Tag** system
+
+Here is the next idea: you define a look of the house facade by skins, and then you select suitable skins for each floor in the Pipeline by floor tags.
+
+!!! note ""
+	Facade of the house that we use in these examples is separated to five skins - thin facade, regular facade, thick facade, columns and plinth
 
 ## **Change facades by floor tags**
-This method provides by the Pipeline. To use it just select some floor and change it's facade tag.
+This method provides by the [[Pipeline]]. To use it, just select some [[Floor]] and change its [[Floor Tag]].  
 
-![[change roof tag.gif]]
+![[change roof tag.gif]]  
 
-It works because an example pipeline includes special logic.
-![[Pasted image 20210409145446.png]]
+It works because an example pipeline includes special logic.  
 
-Here cells of floors with Facade tags will be filtered and processed to achive the final result. 
-You can create your own Tags and generation steps also. 
-Read more: [[Floor Tag]]
+![[Pasted image 20210409145446.png]]  
 
-## **Change facades by base skins**
+Here, cells of floors with facade tags will be filtered and processed to achieve the final result.  
+You can create other tags and generation steps to make things different.  
+**Read more:** [[Floor Tag]]  
 
-Select the House Generator prefab instance on the scene and look at the House Skins panel.
-![[Pasted image 20210408121850.png]]
+---
 
-Here is already added a Facade pallets random container and three skins.
-![[Pasted image 20210408122102.png]]
+## **Change facades by house skins**
+
+Select the **House Generator** on the scene and look at the **House Skins** panel.  
+
+![[Pasted image 20210408121850.png]]  
+
+Here is already added a random container for facade palettes.  
+
+![[Pasted image 20210408122102.png]]  
 
 
-To change the house facade we should add new skin in top of this skins list. Facade is splitted into five skins, but in this tutorial we will change only one - **Facade Regular skin**.
+We have to add new skin in top of this skins list to override the house facade.  
+A facade of the house is separated into five skins, but in this tutorial we will change only one - **Facade Regular skin**.  
 
-To do it let's just duplicate already existed regular facade skin and edit it.
-Go to the Domik folder -> House Example -> Skins -> Facade Walls Regular, duplicate some skin and open it.
+To do it we have to duplicate this skin and edit it.   
 
-![[dublicate facade regular.gif]]
+!!! note ""
+	We can just change this **skin** as it shows in the [[How to change room walls]] article too.
 
-Now replace materials with something other.
+Go to the **Domik** folder -> **House Example** -> **Skins** -> **Facade Walls Regular**, duplicate some **skin** and open it.  
 
-![[change facade wall mat.gif]]
+![[dublicate facade regular.gif]]  
 
-Exit with saving, drag-n-drop this skin in top of the House Generator skins list and regenerate to checkout the result.
+Now replace materials with something other.  
+
+![[change facade wall mat.gif]]  
+
+Exit with saving, drag-n-drop this **skin** in top of the **House Generator** skins list and regenerate the house to check out the result. 
 
 
 ![[Checkout pink facade.gif]]
 
-You can also change meshes of walls or add something new. Let's make this wall even worse and add new window frames.
+You can also change meshes of walls or add something new.   
+Let's make this wall even worse to add new window frames.
 
 ![[add window frames.gif]]
 
-## **Change facades by Pallets**.
-Palettes is a tool which mostly uses to make skins more randomly, but you can use it to work with skins more comfortable as well.
 
