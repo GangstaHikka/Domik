@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Overview - delete me/Mask OLD.md",
+            "file": "Documentation/Deep dive into house building process.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Overview - delete me/Mask OLD.md",
-            "mode": "source"
+            "file": "Documentation/Deep dive into house building process.md",
+            "mode": "preview"
           }
         },
         "group": "2bab9304dd7529a0"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview - delete me/Mask OLD.md",
+                "file": "Documentation/Deep dive into house building process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "c26d9e7e7301e539",
   "lastOpenFiles": [
-    "Overview - delete me/Mask OLD.md",
-    "Old stuff/Getting Started/Create Pipeline.md",
-    "Old stuff/Getting Started/Create Preview System.md",
-    "Old stuff/Getting Started/Create Interior.md",
-    "Old stuff/Getting Started/Change wallpapers.md",
-    "Old stuff/Getting Started/Change exterior.md",
-    "Old stuff/Getting Started/Change an interior furniture look.md",
-    "Old stuff/Getting Started/Add new furniture.md",
-    "Knowledge Base/Modular System Adaptation.md",
-    "Overview - delete me/Nodes.md"
+    "Documentation/Deep dive into house building process.md",
+    "Documentation/How the Domik builds a house.md",
+    "Documentation/House Generator.md",
+    "Documentation/How to add new stuff.md",
+    "Documentation/How to change room walls.md",
+    "Documentation/How to replace models or materials.md",
+    "Documentation/How to change house floors.md",
+    "Documentation/How to create a procedural house.md",
+    "Documentation/How to create and use a Placeable Object.md",
+    "Documentation/Facades workflow.md"
   ]
 }

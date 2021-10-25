@@ -162,7 +162,7 @@ nav:
         - How to add new stuff: Documentation/How to add new stuff.md
         - How to create and use a Placeable Object: Documentation/How to create and use a Placeable Object.md
         - Facades workflow: Documentation/Facades workflow.md
-        - Deep dive into house building process: Documentation/Deep Dive Into House Building Process.md
+        - Deep dive into house building process: Documentation/Deep dive into house building process.md
     - Main Concepts:
         - House Generator: Documentation/House Generator.md
         - Preview System: Documentation/Preview System.md

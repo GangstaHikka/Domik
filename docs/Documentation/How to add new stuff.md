@@ -10,7 +10,7 @@ That's how it works:
 3. The **Pipeline** returns house cells to the **House Builder**.
 4. The **House Builder** iterates over cells and asks **skins** if they have some view (**PartBuilder**) for this part of the cell and if it is, the **House Builder** build it.
 
-**Read more:** 	[[How the Domik builds a house]], [[Deep Dive Into House Building Process]].
+**Read more:** 	[[How the Domik builds a house]], [[Deep dive into house building process]].
 
 ---
 
