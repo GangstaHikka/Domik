@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/Deep dive into house building process.md",
+            "file": "Documentation/Placeable Objects Container.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/Deep dive into house building process.md",
+            "file": "Documentation/Placeable Objects Container.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Deep dive into house building process.md",
+                "file": "Documentation/Placeable Objects Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "c26d9e7e7301e539",
   "lastOpenFiles": [
-    "Documentation/Deep dive into house building process.md",
-    "Documentation/How the Domik builds a house.md",
+    "Documentation/Placeable Objects Container.md",
+    "Documentation/Placeable Object.md",
+    "Documentation/Preview System.md",
+    "Documentation/How to create a Preview System.md",
+    "Documentation/Getting Started.md",
+    "Documentation/Mask.md",
+    "Documentation/Part Builder.md",
+    "Documentation/Part.md",
     "Documentation/House Generator.md",
-    "Documentation/How to add new stuff.md",
-    "Documentation/How to change room walls.md",
-    "Documentation/How to replace models or materials.md",
-    "Documentation/How to change house floors.md",
-    "Documentation/How to create a procedural house.md",
-    "Documentation/How to create and use a Placeable Object.md",
-    "Documentation/Facades workflow.md"
+    "Documentation/How to create a procedural house.md"
   ]
 }

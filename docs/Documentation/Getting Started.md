@@ -30,6 +30,7 @@ It uses a visual scripting system to determine a logic of generation and designe
 - [[How to add new stuff]]
 - [[How to create and use a Placeable Object]]
 - [[Facades workflow]]
+- [[How to create a Preview System]]
 - [[Deep dive into house building process]]
 
 ---

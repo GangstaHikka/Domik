@@ -1,37 +1,61 @@
-# Preview System
-The Preview system allows you to see changes of the Domik scriptable objects right in the scene. 
+# **Preview System**
 
-The Domik contains a premade Preview system instance prefab, so feel free to use it with example house. To use it just drag'n'drop the PREVIEW prefab from the Domik folder to the scene.
-![[create preview.gif]]
+The **Preview System** draws configuration files right in the scene.   
+It's pretty useful tool to work with them because you can see changes of files visually in real time.  
 
-The Preveiw system works with:
-- Part
-- Mask
-- Place
-- PlaceableObject
+A done **Preview System** is a prefab in the **Domik** folder. Drag-and-drop it in the scene to start working with it.  
 
-So you can select some of them so see how the Preview works:
+![[create preview.gif]]  
 
-![[preview part.gif]]
-![[preview place.gif]]
-![[preview po.gif]]
-![[preview mask.gif]]
+The **Preview System** works with:  
 
-### Part Preview
-Part Preview allows yow to see how selected part will looks like in result.
+- **Part**
+- **Mask**
+- **Place**
+- **Placeable Object**
 
-### Place Preview
-Place Preview allows you to see how some place actually looks like.
-You can see changes of some Place instantly.
-![[preview place changes.gif]]
+---
 
-### Mask Preview
-Mask Preview shows visual representation of masks.
-You can see changes of some Mask instantly.
-![[preview mask changes.gif]]
+## **Part Preview**
+The **Part Preview** allows you to see a visual representation of the [[Part]].  
+![[preview part.gif]]  
 
-### Placeable Object Preview
-![[Placeable Object part change preview.gif]]
-![[Placeable Object place change preview.gif]]
-![[Placeable Object multiple places preview.gif]]
-![[Placeable Object add remove preview.gif]]
+---
+
+## **Place Preview**
+The **Place Preview** allows you to see a visual representation of the [[Place]].  
+![[preview place.gif]]  
+You can see changes of some **Place** instantly.  
+![[preview place changes.gif]]  
+
+---
+
+## **Mask Preview**
+The **Mask Preview** allows you to see a visual representation of the [[Mask]].  
+![[preview mask.gif]]  
+You can see changes of some **Mask** instantly.  
+![[preview mask changes.gif]]  
+
+---
+
+## **Placeable Object Preview**
+The **Placeable Object Preview** allows you to see a visual representation of the [[Placeable Object]]. 
+![[preview po.gif]]  
+You can see changes of some **Placeable Object** instantly.  
+
+=== "Changing of the part"
+	![[Placeable Object part change preview.gif]]
+
+=== "Changing of the place"
+	![[Placeable Object place change preview.gif]]
+	
+=== "Select of places"
+	![[Placeable Object multiple places preview.gif]]
+	
+=== "Changing of actions after placing"
+	![[Placeable Object add remove preview.gif]]
+	
+---
+
+**See also:** [[How to create a Preview System]].
+

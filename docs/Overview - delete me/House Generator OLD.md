@@ -42,21 +42,9 @@ You can think about these skins as about skins by default.
 ## Floors
 **Floors** is a description of expected house floors.
 
-![[Pasted image 20210105155951.png]]
+![[Pasted image 20211026160336.png]]
 
 
-#### Floor Plans
-Floor Plans is a list of expected floors.
-Select some floor or add new to start changes.
-**Panels below represents settings of selected house.**
-
-- **Name** - name of selected floor.
-- **Interiors** - List of possible [[Interior OLD]] for selected floor. If you want to increase chance of placing some interior - reorder it to top of the list.
-- **Tags** - floor tags. This floor will be marked by these tags, so you'll be able to filter this floor by some of these tags and make changes.
-	
-	Example of filtering by tag:
-	
-	![[Pasted image 20210105141516.png]]
 	
 	
 	
