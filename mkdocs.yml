@@ -151,81 +151,81 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Documentation:
-    - Getting Started: Documentation/Getting Started.md
+    - getting started: documentation/getting-started.md
     - Tutorials:
-        - How to create a procedural house: Documentation/How to create a procedural house.md
-        - How to change a house size: Documentation/How to change a house size.md
-        - How to change house floors: Documentation/How to change house floors.md
-        - How the Domik builds a house: Documentation/How the Domik builds a house.md
-        - How to change room walls: Documentation/How to change room walls.md
-        - How to replace models or materials: Documentation/How to replace models or materials.md
-        - How to add new stuff: Documentation/How to add new stuff.md
-        - How to create and use a Placeable Object: Documentation/How to create and use a Placeable Object.md
-        - Facades workflow: Documentation/Facades workflow.md
-        - How to create a Preview System: Documentation/How to create a Preview System.md
-        - Deep dive into house building process: Documentation/Deep dive into house building process.md
+        - how to create a procedural house: documentation/how-to-create-a-procedural-house.md
+        - how to change a house size: documentation/how-to-change-a-house-size.md
+        - how to change house floors: documentation/how-to-change-house-floors.md
+        - how the domik builds a house: documentation/how-the-domik-builds-a-house.md
+        - how to change room walls: documentation/how-to-change-room-walls.md
+        - how to replace models or materials: documentation/how-to-replace-models-or-materials.md
+        - how to add new stuff: documentation/how-to-add-new-stuff.md
+        - how to create and use a placeable object: documentation/how-to-create-and-use-a-placeable-object.md
+        - facades workflow: documentation/facades-workflow.md
+        - how to create a preview system: documentation/how-to-create-a-preview-system.md
+        - deep dive into house building process: documentation/deep-dive-into-house-building-process.md
     - Main Concepts:
-        - House Generator: Documentation/House Generator.md
-        - Preview System: Documentation/Preview System.md
-        - Part: Documentation/Part.md
-        - Part Builder: Documentation/Part Builder.md
-        - Skin: Documentation/Skin.md
-        - Palette: Documentation/Palette.md
-        - Palettes Random Container: Documentation/Palettes Random Container.md
-        - Place: Documentation/Place.md
-        - Mask: Documentation/Mask.md
-        - Placeable Object: Documentation/Placeable Object.md
-        - Placeable Objects Container: Documentation/Placeable Objects Container.md
-        - Floor: Documentation/Floor.md
-        - Interior: Documentation/Interior.md
-        - Floor Tag: Documentation/Floor Tag.md
-        - Pipeline: Documentation/Pipeline.md
+        - house generator: documentation/house-generator.md
+        - preview system: documentation/preview-system.md
+        - part: documentation/part.md
+        - part builder: documentation/part-builder.md
+        - skin: documentation/skin.md
+        - palette: documentation/palette.md
+        - palettes random container: documentation/palettes-random-container.md
+        - place: documentation/place.md
+        - mask: documentation/mask.md
+        - placeable object: documentation/placeable-object.md
+        - placeable objects container: documentation/placeable-objects-container.md
+        - floor: documentation/floor.md
+        - interior: documentation/interior.md
+        - floor tag: documentation/floor-tag.md
+        - pipeline: documentation/pipeline.md
   - Pipeline Nodes:
     - Action: 
-        - Extract Positions: Pipeline Nodes/Extract Positions.md
-        - Find And Replace: Pipeline Nodes/Find And Replace.md
-        - Shift: Pipeline Nodes/Shift.md
+        - extract positions: pipeline-nodes/extract-positions.md
+        - find and replace: pipeline-nodes/find-and-replace.md
+        - shift: pipeline-nodes/shift.md
     - Add: 
-        - Add Part: Pipeline Nodes/Add Part.md
+        - add part: pipeline-nodes/add-part.md
     - Filter:
-        - Filter By Mask: Pipeline Nodes/Filter By Mask.md
-        - Filter By Positions: Pipeline Nodes/Filter By Positions.md
-        - Filter By Tag: Pipeline Nodes/Filter By Tag.md
-        - Filter Floor: Pipeline Nodes/Filter Floor.md
-        - Filter Internal Doors Places: Pipeline Nodes/Filter Internal Doors Places.md
-        - Filter Intersections: Pipeline Nodes/Filter Intersections.md
-        - Filter Neighbor Cells: Pipeline Nodes/Filter Neighbor Cells.md
-        - Filter Random Cells: Pipeline Nodes/Filter Random Cells.md
-        - Filter Random Input: Pipeline Nodes/Filter Random Input.md
-        - Filter With Part: Pipeline Nodes/Filter With Part.md
-        - Filter With Parts: Pipeline Nodes/Filter With Parts.md
-        - Filter Without Part: Pipeline Nodes/Filter Without Part.md
+        - filter by mask: pipeline-nodes/filter-by-mask.md
+        - filter by positions: pipeline-nodes/filter-by-positions.md
+        - filter by tag: pipeline-nodes/filter-by-tag.md
+        - filter floor: pipeline-nodes/filter-floor.md
+        - filter internal doors places: pipeline-nodes/filter-internal-doors-places.md
+        - filter intersections: pipeline-nodes/filter-intersections.md
+        - filter neighbor cells: pipeline-nodes/filter-neighbor-cells.md
+        - filter random cells: pipeline-nodes/filter-random-cells.md
+        - filter random input: pipeline-nodes/filter-random-input.md
+        - filter with part: pipeline-nodes/filter-with-part.md
+        - filter with parts: pipeline-nodes/filter-with-parts.md
+        - filter without part: pipeline-nodes/filter-without-part.md
     - Flow:
-        - Exclude: Pipeline Nodes/Exclude.md
-        - Merge: Pipeline Nodes/Merge.md
-        - Override: Pipeline Nodes/Override.md
-        - Shuffle: Pipeline Nodes/Shuffle.md
+        - exclude: pipeline-nodes/exclude.md
+        - merge: pipeline-nodes/merge.md
+        - override: pipeline-nodes/override.md
+        - shuffle: pipeline-nodes/shuffle.md
     - Interiors:
-        - Calculate Room Interiors: Pipeline Nodes/Calculate Room Interiors.md
-        - Place Furniture: Pipeline Nodes/Place Furniture.md
-        - Return Interiors: Pipeline Nodes/Return Interiors.md
-        - Split Into Rooms: Pipeline Nodes/Split Into Rooms.md
+        - calculate room interiors: pipeline-nodes/calculate-room-interiors.md
+        - place furniture: pipeline-nodes/place-furniture.md
+        - return interiors: pipeline-nodes/return-interiors.md
+        - split into rooms: pipeline-nodes/split-into-rooms.md
     - Main:
-        - End: Pipeline Nodes/End.md
-        - Start: Pipeline Nodes/Start.md
+        - end: pipeline-nodes/end.md
+        - start: pipeline-nodes/start.md
     - Place:
-        - Place Part By Mask For All Rotations: Pipeline Nodes/Place Part By Mask For All Rotations
-        - Place Placeable Object Forced: Pipeline Nodes/Place Placeable Object Forced.md
-        - Place Placeable Object: Pipeline Nodes/Place Placeable Object.md
-        - Place Stairs: Pipeline Nodes/Place Stairs.md
+        - place part by mask for all rotations: pipeline-nodes/place-part-by-mask-for-all-rotations.md
+        - place placeable object forced: pipeline-nodes/place-placeable-object-forced.md
+        - place placeable object: pipeline-nodes/place-placeable-object.md
+        - place stairs: pipeline-nodes/place-stairs.md
     - Remove:
-        - Apply Parts Removing: Pipeline Nodes/Apply Parts Removing.md
-        - Remove Part: Pipeline Nodes/Remove Part.md
-        - Remove Part Later: Pipeline Nodes/Remove Part Later.md
+        - apply parts removing: pipeline-nodes/apply-parts-removing.md
+        - remove part: pipeline-nodes/remove-part.md
+        - remove part later: pipeline-nodes/remove-part-later.md
     - Skins:
-        - Create Skins Layer: Pipeline Nodes/Create Skins Layer.md
-        - Override Skins Layer: Pipeline Nodes/Override Skins Layer.md
-        - Return Skins Layer: Pipeline Nodes/Return Skins Layer.md
+        - create skins layer: pipeline-nodes/create-skins-layer.md
+        - override skins layer: pipeline-nodes/override-skins-layer.md
+        - return skins layer: pipeline-nodes/return-skins-layer.md
     
 
 

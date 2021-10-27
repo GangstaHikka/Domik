@@ -17,13 +17,13 @@ The **Preview System** works with:
 ---
 
 ## **Part Preview**
-The **Part Preview** allows you to see a visual representation of the [[Part]].  
+The **Part Preview** allows you to see a visual representation of the [[part]].  
 ![[preview part.gif]]  
 
 ---
 
 ## **Place Preview**
-The **Place Preview** allows you to see a visual representation of the [[Place]].  
+The **Place Preview** allows you to see a visual representation of the [[place]].  
 ![[preview place.gif]]  
 You can see changes of some **Place** instantly.  
 ![[preview place changes.gif]]  
@@ -31,7 +31,7 @@ You can see changes of some **Place** instantly.
 ---
 
 ## **Mask Preview**
-The **Mask Preview** allows you to see a visual representation of the [[Mask]].  
+The **Mask Preview** allows you to see a visual representation of the [[mask]].  
 ![[preview mask.gif]]  
 You can see changes of some **Mask** instantly.  
 ![[preview mask changes.gif]]  
@@ -39,7 +39,7 @@ You can see changes of some **Mask** instantly.
 ---
 
 ## **Placeable Object Preview**
-The **Placeable Object Preview** allows you to see a visual representation of the [[Placeable Object]]. 
+The **Placeable Object Preview** allows you to see a visual representation of the [placeable object](placeable-object.md). 
 ![[preview po.gif]]  
 You can see changes of some **Placeable Object** instantly.  
 
@@ -57,5 +57,5 @@ You can see changes of some **Placeable Object** instantly.
 	
 ---
 
-**See also:** [[How to create a Preview System]].
+**See also:** [how to create a preview system](how-to-create-a-preview-system.md).
 

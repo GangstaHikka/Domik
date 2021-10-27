@@ -62,7 +62,7 @@ So yeah, cells is just a 3D grid of parts lists.
 -------
 
 In the **pipeline** you create cells, modify them, remove, merge and so on.
-And in the end you return the result in the [[End]] node. 
+And in the end you return the result in the [[end]] node. 
 Created **cells** comes to the second step of the generation - extracting a house build data from cells.
 
 ## **2. Extracting a house build data from cells**.

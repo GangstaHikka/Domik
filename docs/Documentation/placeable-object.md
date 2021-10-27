@@ -1,6 +1,6 @@
 # **Placeable Object**
 
-The **Placeable Object** is a container for the [[Part]] with placing requirements.  
+The **Placeable Object** is a container for the [[part]] with placing requirements.  
 
 ![[Pasted image 20210402143042.png]]  
 
@@ -11,7 +11,7 @@ The **Placeable Object** is a container for the [[Part]] with placing requiremen
 ---
 
 ## **Preview section**
-The **Preview** section helps you to work with the [[Preview System]].  
+The **Preview** section helps you to work with the [preview system](preview-system.md).  
 This system will draw a result of changes of selected **Placeable Object**.  
 ![[Pasted image 20211026183216.png]]   
 
@@ -24,12 +24,12 @@ This system will draw a result of changes of selected **Placeable Object**.
 ## **Settings section**
 The settings section defines that you want to place and where you want to place.  
 ![[Pasted image 20211026183757.png]]  
-**Part** - the [[Part]] that you want to place.  
+**Part** - the [[part]] that you want to place.  
 ??? example "Changing of the part"
 	![[Placeable Object part change preview.gif]]
 
 **Possible Places** - this is a list of places where this part can be. 
-You can use [[Place]]s or [[Mask]]s here.
+You can use [[place]]s or [[mask]]s here.
 
 ??? example "Changing of list of possible places"
 

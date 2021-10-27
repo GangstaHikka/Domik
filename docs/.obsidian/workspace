@@ -9,23 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/Placeable Objects Container.md",
+            "file": "documentation/skin.md",
             "mode": "source"
           }
-        },
-        "group": "2bab9304dd7529a0"
+        }
       },
       {
-        "id": "90c2d3adc01b5850",
+        "id": "de53f26615b67661",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/Placeable Objects Container.md",
+            "file": "documentation/skin.md",
             "mode": "preview"
           }
-        },
-        "group": "2bab9304dd7529a0"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Getting",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 373
   },
   "right": {
     "id": "c544c8d63846e75c",
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Placeable Objects Container.md",
+                "file": "documentation/skin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +99,15 @@
   },
   "active": "c26d9e7e7301e539",
   "lastOpenFiles": [
-    "Documentation/Placeable Objects Container.md",
-    "Documentation/Placeable Object.md",
-    "Documentation/Preview System.md",
-    "Documentation/How to create a Preview System.md",
-    "Documentation/Getting Started.md",
-    "Documentation/Mask.md",
-    "Documentation/Part Builder.md",
-    "Documentation/Part.md",
-    "Documentation/House Generator.md",
-    "Documentation/How to create a procedural house.md"
+    "documentation/skin.md",
+    "documentation/getting-started.md",
+    "documentation/part-builder.md",
+    "pipeline-nodes/add-part.md",
+    "pipeline-nodes/start.md",
+    "pipeline-nodes/split-into-rooms.md",
+    "pipeline-nodes/shuffle.md",
+    "pipeline-nodes/shift.md",
+    "pipeline-nodes/return-skins-layer.md",
+    "pipeline-nodes/return-interiors.md"
   ]
 }

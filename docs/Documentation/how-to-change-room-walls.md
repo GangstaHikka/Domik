@@ -28,7 +28,7 @@ Now open the **Regular** folder.
 
 These are skins.  
 
-Skins are basically just prefabs with [[Skin]] component on the root object and some children objects with [[Part Builder]] components.  
+Skins are basically just prefabs with [[skin]] component on the root object and some children objects with [part builder](part-builder.md) components.  
 
 You can use all features of regular prefabs with them, including **nesting of prefabs**.  
 **Walls Origin** here is an **original prefab** and all other wall prefabs are **nested**, so if you make some changes of **Origin skin** prefab it'll make effects on **nested**.  

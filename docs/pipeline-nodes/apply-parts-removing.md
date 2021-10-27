@@ -19,4 +19,4 @@ This node applies parts removing requests.
 --------
 
 # Examples
-A wonderful example of using is showed in the [[Remove Part Later]] article.
+A wonderful example of using is showed in the [remove part later](remove-part-later.md) article.

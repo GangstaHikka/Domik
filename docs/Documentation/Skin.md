@@ -1,46 +1,43 @@
 # **Skin**
-**Skin** is a bridge between [[Part OLD]] and it's in-game representation.
-From [[House Generator OLD]] perspective, house is a structured collection of [[Part OLD]], so you need to convert these parts to real game objects. Luckily, we have a system that does this automatically.
-And this system is... the **Skin**, yay!
 
-Skin contains a list of [[Part Builder OLD]]. Every [[Part Builder OLD]] contains a bind to [[Part OLD]].
-In process of building, the HouseBuilder asks every available **Skin** if it has anything for this part.
+The **Skin** is a bridge between [[part]]s and theirs in-game representations.   
+From the **Domik** perspective, the house is a structured collection of **parts**, so it has to convert these **parts** into real **game objects**.  
+And the **Skin** helps the **Domik** to understand how **parts** should look like.  
 
-If skin contains a PartBuilder with binding to the processing part, HouseGenerator takes this PartBuilder and runs the Part Building Process.
-Some internal fairy tale magic and...
-Yay!
-You have a built wall. Or window. Or... Some sort of criminal scenes! Or maybe the Spawn Point? PartBuilder can build that you want, just ask him! :D
+![[Pasted image 20211027131342.png]]  
 
->To find out how to work with the PartBuilder component read the PartBuilder section. 
+**The Skin** is a prefab with a **Skin component** and a bunch of child **game objects** with [Part Builder](part-builder.md) components.  
+It also contains a list of bindings between **parts** and **part builders**.  
 
-Another interesting side of Skins System is that you can use more than one skin for the single house.
-Why do you need it? 
-Well, you can use an individual skin for every single room, whereby you will be able to change wallpapers, furniture vision or even add something absolutely new only for this room. 
+## **Settings**
+![[Pasted image 20211027130643.png]]  
 
->To find out how to do it read an Interior documentation section here.
+- **Cell Width** - width and length sizes of the cell. Just write a floor mesh width here (in meters).
+- **Cell Height** - height of the cell. Just write a wall mesh height here (in meters).
 
-Another way to use multiple skins is using the Pipeline Skins Layer.
+## **Binding**
+Binding list is a list of binding between **part** and **part builders**.  
+![[Pasted image 20211027130623.png]]  
 
-Now take a closer look at the Skin stored in the HouseGenerator component: 
+- **Create Parts for unbound?** - set it true if you want to create new **parts** for unbound **part builders** in the process of binding update. 
+- **Path field** - where you want to create new parts?
+- **Change Folder button** - click to change a folder for new **parts**.
+- **Update Binding button** - click it to update a list of bindings.
+- **Binds list** - a list of binding between **parts** and **part builders**.
 
-![[2cd21576337fa0e4b37e8f5da021403c.png]]
+### **Binds list element**
+![[Pasted image 20211027132341.png]]  
+
+- **Part Builder field** - a **part builder** for the **part**.
+- **Part Builder** - a **part** that you want to build by this **part builder**.
+- **Number field** - a rotation offset after building.
+
+---
+
+**See also:** 
+[how to add new stuff](how-to-add-new-stuff.md),
+[part](part.md),
+[part builder](part-builder.md),
+[house generator](house-generator.md).
 
 
-As you can see Skin is a regular prefab with the Skin component on the root, so you can open it in Prefab Mode by double clicking.
-Skin contains a tons of children GameObjects, most of them contains a PartBuilder component.
-
-![[bfb3430121ed6183f031e4626e8c4d2a.png]]
-
-
-
-Now lets take a closer look at the Skin
-
-![[743ae66db928aacea80252eedbea7482.png]]
-
-
-## Settings
-
-- Cell Width - width and length sizes of the cell. Just write a floor mesh width here (in meters).
-- Cell Height - height of the cell. Just write a wall mesh height here (in meters).
-
-## Binding

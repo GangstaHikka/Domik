@@ -57,4 +57,6 @@ You can do it visually or you can look at the name of the room, this name is the
 	Interior of the room is set in the process of the [[Calculate Room Interiors]] node, basically this node just sets some interior from the [[Floor]] interiors list.   
 
 	
-See also: [[How to change room walls]], [[How to replace models or materials]].
+See also: 
+[how to change room walls](how-to-change-room-walls.md), 
+[how to replace models or materials](how-to-replace-models-or-materials.md).

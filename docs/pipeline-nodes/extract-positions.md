@@ -17,4 +17,4 @@ This node extract positions of input cells to use them later. Pretty useful to s
 --------
 
 # Examples
-A good example of using this node is showed here: [[Filter By Positions]] 
+A good example of using this node is showed here: [filter by positions](filter-by-positions.md) 

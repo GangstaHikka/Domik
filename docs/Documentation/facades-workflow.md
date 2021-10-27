@@ -11,7 +11,7 @@ Here is the next idea: you define a look of the house facade by skins, and then 
 	Facade of the house that we use in these examples is separated to five skins - thin facade, regular facade, thick facade, columns and plinth
 
 ## **Change facades by floor tags**
-This method provides by the [[Pipeline]]. To use it, just select some [[Floor]] and change its [[Floor Tag]].  
+This method provides by the [[pipeline]]. To use it, just select some [[floor]] and change its [floor tag](floor-tag.md).  
 
 ![[change roof tag.gif]]  
 
@@ -21,7 +21,7 @@ It works because an example pipeline includes special logic.
 
 Here, cells of floors with facade tags will be filtered and processed to achieve the final result.  
 You can create other tags and generation steps to make things different.  
-**Read more:** [[Floor Tag]]  
+**Read more:** [floor tag](floor-tag.md)  
 
 ---
 
@@ -42,7 +42,7 @@ A facade of the house is separated into five skins, but in this tutorial we will
 To do it we have to duplicate this skin and edit it.   
 
 !!! note ""
-	We can just change this **skin** as it shows in the [[How to change room walls]] article too.
+	We can just change this **skin** as it shows in the [how to change room walls](how-to-change-room-walls.md) article too.
 
 Go to the **Domik** folder -> **House Example** -> **Skins** -> **Facade Walls Regular**, duplicate some **skin** and open it.  
 

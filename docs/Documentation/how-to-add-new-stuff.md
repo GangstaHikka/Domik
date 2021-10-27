@@ -1,7 +1,7 @@
 # **How to add new stuff**
 
 From the Domik perspective there is no difference between walls, doors, furniture or something else. It's all **parts**.   
-If you want to add new furniture, you have to create a new [[Part]] and a visual representation of it by the [[Part Builder]] and the [[Skin]].   
+If you want to add new furniture, you have to create a new [[part]] and a visual representation of it by the [part builder](part-builder.md) and the [[skin]].   
 
 That's how it works:
 
@@ -10,7 +10,9 @@ That's how it works:
 3. The **Pipeline** returns house cells to the **House Builder**.
 4. The **House Builder** iterates over cells and asks **skins** if they have some view (**PartBuilder**) for this part of the cell and if it is, the **House Builder** build it.
 
-**Read more:** 	[[How the Domik builds a house]], [[Deep dive into house building process]].
+**Read more:** 	
+[how the domik builds a house](how-the-domik-builds-a-house.md), 
+[deep dive into house building process](deep-dive-into-house-building-process.md).
 
 ---
 
@@ -59,7 +61,7 @@ Result of setting up of parts.
 === "Chair Backward"
 	![[Pasted image 20210402153304.png]]  
 
-Now we need to create [[Part Builder]]s for these **parts**, to do it we have to use the [[Skin]] system.  
+Now we need to create [part builder](part-builder.md)s for these **parts**, to do it we have to use the [[skin]] system.  
 We can extend an existed **skin** or create a brand new.  
 Let's extend some furniture skin.  
 To do it go to the Domik folder -> **House Example** -> **Skins** -> **Furniture** -> open **Furniture Origin**  
@@ -113,7 +115,9 @@ Let's check out the result.
 If the **Preview System** draws **parts**, you did everything right.
 Now you can use it to create a **Placeable Object**!
 
-**Read next:** [[How to create and use a Placeable Object]], [[Placeable Object]].
+**Read next:** 
+[how to create and use a placeable object](how-to-create-and-use-a-placeable-object.md), 
+[placeable object](placeable-object.md).
 
 ---
 
@@ -193,4 +197,6 @@ Checking out.
 Congratulations!  
 Now you can use these parts to create a **Placeable Object**.  
 
-**See also:** [[How to create and use a Placeable Object]], [[Placeable Object]]
+**See also:** 
+[how to create and use a placeable object](how-to-create-and-use-a-placeable-object.md), 
+[placeable object](placeable-object.md).

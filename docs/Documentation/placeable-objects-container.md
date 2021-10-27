@@ -1,5 +1,5 @@
 # **Placeable Objects Container**
-The **Placeable Objects Container** is a container of [[Placeable Object]]s or other [[Placeable Objects Container]]s.  
+The **Placeable Objects Container** is a container of [placeable object](placeable-object.md)s or other [placeable objects container](placeable-objects-container.md)s.  
 It's designed to group up objects which can present some common idea.   
 Use it with objects which can or should be represented by different **parts**.  
 
@@ -8,7 +8,7 @@ Use it with objects which can or should be represented by different **parts**.
 
 - **Mode** - a placing mode:
 	- **Place All** - try to place all items.   
-	Use it to group up objects by some topic to make an [[Interior]] list of **placeable objects** a bit cleaner.
+	Use it to group up objects by some topic to make an [[interior]] list of **placeable objects** a bit cleaner.
 	- **Place First Relevant** - iterate over items and stop after the first success of placing.   
 	Use it if these items represent an object that trying to adapt to different environments.  
 	Example: kitchen stoves for different sizes of the room.   

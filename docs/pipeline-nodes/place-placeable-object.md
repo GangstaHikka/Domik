@@ -19,7 +19,7 @@ This node places a **PlaceableObject** or **PlaceableObjectsContainer** to input
 	- **Once Per Floor** - try to place this **Placeable Object** once per floor.
 	- **Once Per Room** - try to place this **Placeable Object** in every room.
 	- **In Every Cell** - try to place this **Placeable Object** in every input cell.
-- **A Placeable** - [[Placeable Object]] or PlaceableObjectsContainer what you want to place.
+- **A Placeable** - [placeable object](placeable-object.md) or [placeable objects container](placeable-objects-container.md) what you want to place.
 
 
 	

@@ -2,7 +2,7 @@
 
 If you want to change some part of the house, you have to change its **Part Builder** in the **Skin**.   
 **Skin** is a container of objects with **Part Builder** components, which are visual representations of parts of the house.  
-**Read more:** [[Skin]], [[Part Builder]].  
+**Read more:** [[skin]], [part builder](part-builder.md).  
 
 Usually the house generator uses two groups of skins:
 
@@ -26,7 +26,7 @@ To change some basic part of the house like a facade or roof, you can do it by c
 === "House Generator skins list"
 	![[Pasted image 20211021161220.png]]
 
-**Read more:** [[How the Domik builds a house]]
+**Read more:** [how the domik builds a house](how-the-domik-builds-a-house.md)
 
 <br />
 

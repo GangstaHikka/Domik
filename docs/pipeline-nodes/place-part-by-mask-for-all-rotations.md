@@ -23,7 +23,7 @@ And yeah, it'll place this part for every found suitable place.
 
 --------
 
-# Examples
+# **Examples**
 For this example we will generate a house basic cells, split it by rooms, add floor parts and calculate interiors.  
 
 ![[Pasted image 20211004223119.png]]

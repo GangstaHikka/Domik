@@ -8,7 +8,7 @@ This component provides a setting and construction of the house, and it's design
 ![[Pasted image 20210814115724.png]]
 
 
-**Read More:** [[How to create a procedural house]].
+**Read More:** [how to create a procedural house](how-to-create-a-procedural-house.md).
 
 ---
 
@@ -45,7 +45,7 @@ You can select between two size modes: **const** and **rand**.
 ??? note "Why the final size may differ than the target size?"
 	These values not using directly, but send to the **Pipeline**, so the final size of the house depends on the **Pipeline** algorithm.  
 
-**Read More:** [[How to change a house size]].
+**Read More:** [how to change a house size](how-to-change-a-house-size.md).
 
 ---
 
@@ -58,7 +58,7 @@ You can select between two size modes: **const** and **rand**.
 This is a list of base house skins.   
 You can think about these skins as about skins by default.  
 
-Read More: [[Facades workflow]], [[Skin]].
+Read More: [facades workflow](facades-workflow.md), [[skin]].
 
 ---
 
@@ -67,7 +67,7 @@ Read More: [[Facades workflow]], [[Skin]].
 
 ![[Pasted image 20211026160316.png]]
 
-**Read More:** [[How to change house floors]].
+**Read More:** [how to change house floors](how-to-change-house-floors.md).
 
 
 

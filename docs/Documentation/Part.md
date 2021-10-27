@@ -2,10 +2,10 @@
 
 The **Part** - is a scriptable object which represents an abstract idea of some house object.  
 It's just the name of something that you expect to see in the house, nothing more.  
-The [[Pipeline]] works only with **parts** and knows nothing about how parts actually look.   
+The [[pipeline]] works only with **parts** and knows nothing about how parts actually look.   
 
 !!! note ""
-	A look of the part defines in the [[Skin]]
+	A look of the part defines in the [[skin]]
 	
 === "Part with rotations"
 	!!! note ""
@@ -25,4 +25,7 @@ The [[Pipeline]] works only with **parts** and knows nothing about how parts act
 
 ---
 
-**See Also:** [[How the Domik builds a house]], [[How to add new stuff]], [[Deep dive into house building process]].
+**See Also:** 
+[how the domik builds a house](how-the-domik-builds-a-house.md), 
+[how to add new stuff](how-to-add-new-stuff.md), 
+[deep dive into house building process](deep-dive-into-house-building-process.md).
